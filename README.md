@@ -6,7 +6,7 @@ This repository contains all material needed to participate in the course [Human
 Check out the slides of the first exercise for the concept and general structure of the exercises [here]().
 
 1. The repository contains everything related to the programming assignments we will do throughout the course.
-2. All other information (exercise slides, assignment instructions, etc.) you find in the :arrow\_right: [wiki][3]: arrow\_left:.
+2. All other information (exercise slides, assignment instructions, etc.) you find in the :arrow\_right: [wiki][3]:arrow\_left:.
 3. You should also clone the wiki by running `git clone https://github.com/FUB-HCC/hcds-summer-2022.wiki.git` or `git clone git@github.com:FUB-HCC/hcds-summer-2022.wiki.git`.
 4. You need to clone the code repository in order to deliver your assignments or to test/run the code of fellow students.
 
