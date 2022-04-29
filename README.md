@@ -3,7 +3,7 @@ This repository contains all material needed to participate in the course [Human
 
 
 ## General Information
-Check out the slides of the first exercise for the concept and general structure of the exercises [here]().
+Check out the slides of the first exercise for the concept and general structure of the exercises [here][4].
 
 1. The repository contains everything related to the programming assignments we will do throughout the course.
 2. All other information (exercise slides, assignment instructions, etc.) you find in the :arrow\_right: [wiki][3] :arrow\_left:.
@@ -18,3 +18,4 @@ Please contact Lars Sipos (lars.sipos@fu-berlin.de) if you have any questions, r
 [1]:	https://www.mi.fu-berlin.de/en/inf/groups/hcc/teaching/Summer-Term-2022/course_human_centered_data_science.html
 [2]:	https://www.mi.fu-berlin.de/en/inf/groups/hcc/index.html
 [3]:	https://github.com/FUB-HCC/hcds-summer-2022/wiki
+[4]:	https://github.com/FUB-HCC/hcds-summer-2022/blob/main/exercise/HCDS22_Exercise-01.pdf
