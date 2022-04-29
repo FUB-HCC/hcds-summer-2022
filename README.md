@@ -5,7 +5,7 @@ This repository contains all material needed to participate in the course [Human
 ## General Information
 Check out the slides of the first exercise for the concept and general structure of the exercises [here][4].
 
-The slides of the lecture can be found [here][5]
+The slides of the lecture can be found [here][5].
 
 1. The repository contains everything related to the programming assignments we will do throughout the course.
 2. All other information (exercise slides, assignment instructions, etc.) you find in the :arrow\_right: [wiki][3] :arrow\_left:.
