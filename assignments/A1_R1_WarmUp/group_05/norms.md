@@ -1,3 +1,3 @@
 Members:
-    1. MuhMuhammad Furqan Rafique
+    1. Muhammad Furqan Rafique
     2. Reni Koci
