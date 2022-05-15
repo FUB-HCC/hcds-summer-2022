@@ -1,1 +1,16 @@
-
+1. Data acquisition 
+  1) .data file type reading
+  2) 
+  
+2. Preprocessing
+  1) Column names 
+  2) Null values
+  3) Distribution 
+  4) Outlier Handling 
+  5) Duplicates drop
+  6) Correlation between features
+  7) Feature Selection
+  8) Dimensional Reduction
+  8) Splitting Train/Test dataset 
+  
+ 3. Data Analysis 
