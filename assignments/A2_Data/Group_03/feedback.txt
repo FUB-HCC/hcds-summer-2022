@@ -1,0 +1,3 @@
+The assignments ( programming as well as reflections) are well structured and are thought provoking. We find them quite insightful after having spent time on them for couple of hours. But we feel that tutorial sessions can be better planned with elaborate and more specific case studies touching upon the nuances of Human centered Data Science especially through the lens of GDPR regulations. This will provide us with better perspective into the conflicting values and ways to balance them.
+
+We especially appreciate the open ended nature of assignments and reflections which gives us enough leg room to venture into and come up with subjective insights pertaining to the problem statement.
