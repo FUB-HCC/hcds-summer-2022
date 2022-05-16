@@ -1,0 +1,13 @@
+Lecture: 
+We like that the lectures are created very interactive, it makes the students think about arising problems on their own. 
+The ethical point of view is really in the focus which is good because it is barely talked about in IT studies, but the Data Science part is missing out a little.
+
+Exercise:
+The exercise summarize the lecture which helps sticking to the content. The presentation slides are really clean and helpful. THe groupwork helps exchanging different perspectives.
+We dont talk enough about the assignments but for now they were not that difficult either.
+
+Assignment:
+They had a connection to the lecture, which we liked. They deal more with data science than with the ethical aspect which supplement the lecture. 
+The exercises in the Assignment are explained good and it is helpfull that there is a step to step instruction.
+
+All three supplemend each other very great, but as soon as you miss one of them you miss a big part, because each one deal with one important topic as explained above. Maybe you can split the ethical part and the data science part more into the three module parts. 
