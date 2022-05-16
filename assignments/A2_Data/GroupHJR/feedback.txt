@@ -1,16 +1,1 @@
-1. Data acquisition 
-  1) .data file type reading
-  2) 
-  
-2. Preprocessing
-  1) Column names 
-  2) Null values
-  3) Distribution 
-  4) Outlier Handling 
-  5) Duplicates drop
-  6) Correlation between features
-  7) Feature Selection
-  8) Dimensional Reduction
-  8) Splitting Train/Test dataset 
-  
- 3. Data Analysis 
+There was not a big problem in preprocessing in null values checking and distribution. Because we could not see any other character e.g. ? , so that it was possible to move on to check the feature's distribution. But actually the goal to data analysis part from data acquisition was overwhelming. EDA is supposed to be end before the training, test set is divided because we are not going to actually perform classification. Maybe it would be accessible if the goal ends to correlation checking at most.
