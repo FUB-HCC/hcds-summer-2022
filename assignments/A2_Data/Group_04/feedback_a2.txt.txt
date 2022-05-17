@@ -1,0 +1,2 @@
+The Data was quite straight forward, a good data to refresh our Data Preprocessing skills, but at the same time the data was too perfect, without any N/A Values, without any errors. 
+Analysis was simple and not so challenging. 
