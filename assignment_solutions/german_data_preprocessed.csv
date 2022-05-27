@@ -1,0 +1,1001 @@
+,checking account,duration in month,credit history,credit purpose,credit amount,savings account,employment since..,installment rate,status : sex,other debtors / guarantors,residence since,property,relationship : age,other installment plans,housing,existing credits,job,people to provide maintenance for,telephone,foreign worker,goodness
+0,negative,6,critical account,radio OR tv,1169,unknown OR no savings account,7y <= ...,4,male : single,none,4,real estate,67,none,own,2,skilled employed OR official ,1,yes,yes,1
+1, 0 <= ... <= 200,48,existing AND duly paid,radio OR tv,5951, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,real estate,22,none,own,1,skilled employed OR official ,1,no,yes,2
+2,none,12,critical account,education,2096, ... < 100,4 <= ... < 7y,2,male : single,none,3,real estate,49,none,own,1,unskilled - resident,2,no,yes,1
+3,negative,42,existing AND duly paid,furniture,7882, ... < 100,4 <= ... < 7y,2,male : single,guarantor,4,society savings agreement OR life insurance,45,none,for free,1,skilled employed OR official ,2,no,yes,1
+4,negative,24,delayed,car (new),4870, ... < 100,1 <= ... < 4y,3,male : single,none,4,none OR unknown,53,none,for free,2,skilled employed OR official ,2,no,yes,2
+5,none,36,existing AND duly paid,education,9055,unknown OR no savings account,1 <= ... < 4y,2,male : single,none,4,none OR unknown,35,none,for free,1,unskilled - resident,2,yes,yes,1
+6,none,24,existing AND duly paid,furniture,2835,500 <= ... < 1000,7y <= ...,3,male : single,none,4,society savings agreement OR life insurance,53,none,own,1,skilled employed OR official ,1,no,yes,1
+7, 0 <= ... <= 200,36,existing AND duly paid,car (used),6948, ... < 100,1 <= ... < 4y,2,male : single,none,2,car OR other,35,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+8,none,12,existing AND duly paid,radio OR tv,3059,1000 <= ...,4 <= ... < 7y,2,male : separated OR divorced,none,4,real estate,61,none,own,1,unskilled - resident,1,no,yes,1
+9, 0 <= ... <= 200,30,critical account,car (new),5234, ... < 100,unemployed,4,male : married,none,2,car OR other,28,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,no,yes,2
+10, 0 <= ... <= 200,12,existing AND duly paid,car (new),1295, ... < 100, ... < 1y,3,female : married OR separated OR divorced,none,1,car OR other,25,none,rent,1,skilled employed OR official ,1,no,yes,2
+11,negative,48,existing AND duly paid,business,4308, ... < 100, ... < 1y,3,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,24,none,rent,1,skilled employed OR official ,1,no,yes,2
+12, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,1567, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,1,car OR other,22,none,own,1,skilled employed OR official ,1,yes,yes,1
+13,negative,24,critical account,car (new),1199, ... < 100,7y <= ...,4,male : single,none,4,car OR other,60,none,own,2,unskilled - resident,1,no,yes,2
+14,negative,15,existing AND duly paid,car (new),1403, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,car OR other,28,none,rent,1,skilled employed OR official ,1,no,yes,1
+15,negative,24,existing AND duly paid,radio OR tv,1282,100 <= ... < 500,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,car OR other,32,none,own,1,unskilled - resident,1,no,yes,2
+16,none,24,critical account,radio OR tv,2424,unknown OR no savings account,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,53,none,own,2,skilled employed OR official ,1,no,yes,1
+17,negative,30,none OR duly paid,business,8072,unknown OR no savings account, ... < 1y,2,male : single,none,3,car OR other,25,bank,own,3,skilled employed OR official ,1,no,yes,1
+18, 0 <= ... <= 200,24,existing AND duly paid,car (used),12579, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,2,none OR unknown,44,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+19,none,24,existing AND duly paid,radio OR tv,3430,500 <= ... < 1000,7y <= ...,3,male : single,none,2,car OR other,31,none,own,1,skilled employed OR official ,2,yes,yes,1
+20,none,9,critical account,car (new),2134, ... < 100,1 <= ... < 4y,4,male : single,none,4,car OR other,48,none,own,3,skilled employed OR official ,1,yes,yes,1
+21,negative,6,existing AND duly paid,radio OR tv,2647,500 <= ... < 1000,1 <= ... < 4y,2,male : single,none,3,real estate,44,none,rent,1,skilled employed OR official ,2,no,yes,1
+22,negative,10,critical account,car (new),2241, ... < 100, ... < 1y,1,male : single,none,3,real estate,48,none,rent,2,unskilled - resident,2,no,no,1
+23, 0 <= ... <= 200,12,critical account,car (used),1804,100 <= ... < 500, ... < 1y,3,male : single,none,4,society savings agreement OR life insurance,44,none,own,1,skilled employed OR official ,1,no,yes,1
+24,none,10,critical account,furniture,2069,unknown OR no savings account,1 <= ... < 4y,2,male : married,none,1,car OR other,26,none,own,2,skilled employed OR official ,1,no,no,1
+25,negative,6,existing AND duly paid,furniture,1374, ... < 100,1 <= ... < 4y,1,male : single,none,2,real estate,36,bank,own,1,unskilled - resident,1,yes,yes,1
+26,none,6,none OR duly paid,radio OR tv,426, ... < 100,7y <= ...,4,male : married,none,4,car OR other,39,none,own,1,unskilled - resident,1,no,yes,1
+27,200 < ...,12,duly paid,radio OR tv,409,1000 <= ...,1 <= ... < 4y,3,female : married OR separated OR divorced,none,3,real estate,42,none,rent,2,skilled employed OR official ,1,no,yes,1
+28, 0 <= ... <= 200,7,existing AND duly paid,radio OR tv,2415, ... < 100,1 <= ... < 4y,3,male : single,guarantor,2,real estate,34,none,own,1,skilled employed OR official ,1,no,yes,1
+29,negative,60,delayed,business,6836, ... < 100,7y <= ...,3,male : single,none,4,none OR unknown,63,none,own,2,skilled employed OR official ,1,yes,yes,2
+30, 0 <= ... <= 200,18,existing AND duly paid,business,1913,1000 <= ..., ... < 1y,3,male : married,none,3,real estate,36,bank,own,1,skilled employed OR official ,1,yes,yes,1
+31,negative,24,existing AND duly paid,furniture,4020, ... < 100,1 <= ... < 4y,2,male : single,none,2,car OR other,27,stores,own,1,skilled employed OR official ,1,no,yes,1
+32, 0 <= ... <= 200,18,existing AND duly paid,car (new),5866,100 <= ... < 500,1 <= ... < 4y,2,male : single,none,2,car OR other,30,none,own,2,skilled employed OR official ,1,yes,yes,1
+33,none,12,critical account,business,1264,unknown OR no savings account,7y <= ...,4,male : single,none,4,none OR unknown,57,none,rent,1,unskilled - resident,1,no,yes,1
+34,200 < ...,12,existing AND duly paid,furniture,1474, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,33,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+35, 0 <= ... <= 200,45,critical account,radio OR tv,4746, ... < 100, ... < 1y,4,male : single,none,2,society savings agreement OR life insurance,25,none,own,2,unskilled - resident,1,no,yes,2
+36,none,48,critical account,education,6110, ... < 100,1 <= ... < 4y,1,male : single,none,3,none OR unknown,31,bank,for free,1,skilled employed OR official ,1,yes,yes,1
+37,200 < ...,18,existing AND duly paid,radio OR tv,2100, ... < 100,1 <= ... < 4y,4,male : single,co-applicant,2,real estate,37,stores,own,1,skilled employed OR official ,1,no,yes,2
+38,200 < ...,10,existing AND duly paid,domestic appliances,1225, ... < 100,1 <= ... < 4y,2,male : single,none,2,car OR other,37,none,own,1,skilled employed OR official ,1,yes,yes,1
+39, 0 <= ... <= 200,9,existing AND duly paid,radio OR tv,458, ... < 100,1 <= ... < 4y,4,male : single,none,3,real estate,24,none,own,1,skilled employed OR official ,1,no,yes,1
+40,none,30,existing AND duly paid,radio OR tv,2333,500 <= ... < 1000,7y <= ...,4,male : single,none,2,car OR other,30,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+41, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,1158,500 <= ... < 1000,1 <= ... < 4y,3,male : separated OR divorced,none,1,car OR other,26,none,own,1,skilled employed OR official ,1,yes,yes,1
+42, 0 <= ... <= 200,18,delayed,repairs,6204, ... < 100,1 <= ... < 4y,2,male : single,none,4,real estate,44,none,own,1,unskilled - resident,2,yes,yes,1
+43,negative,30,critical account,car (used),6187,100 <= ... < 500,4 <= ... < 7y,1,male : married,none,4,car OR other,24,none,rent,2,skilled employed OR official ,1,no,yes,1
+44,negative,48,critical account,car (used),6143, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,4,none OR unknown,58,stores,for free,2,unskilled - resident,1,no,yes,2
+45,none,11,critical account,car (new),1393, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,car OR other,35,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+46,none,36,existing AND duly paid,radio OR tv,2299,500 <= ... < 1000,7y <= ...,4,male : single,none,4,car OR other,39,none,own,1,skilled employed OR official ,1,no,yes,1
+47,negative,6,existing AND duly paid,car (used),1352,500 <= ... < 1000,unemployed,1,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,23,none,rent,1,unemployed OR unskilled - non-resident,1,yes,yes,1
+48,none,11,critical account,car (new),7228, ... < 100,1 <= ... < 4y,1,male : single,none,4,society savings agreement OR life insurance,39,none,own,2,unskilled - resident,1,no,yes,1
+49,none,12,existing AND duly paid,radio OR tv,2073,100 <= ... < 500,1 <= ... < 4y,4,female : married OR separated OR divorced,co-applicant,2,real estate,28,none,own,1,skilled employed OR official ,1,no,yes,1
+50, 0 <= ... <= 200,24,delayed,furniture,2333,unknown OR no savings account, ... < 1y,4,male : single,none,2,society savings agreement OR life insurance,29,bank,own,1,unskilled - resident,1,no,yes,1
+51, 0 <= ... <= 200,27,delayed,car (used),5965, ... < 100,7y <= ...,1,male : single,none,2,car OR other,30,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+52,none,12,existing AND duly paid,radio OR tv,1262, ... < 100,1 <= ... < 4y,3,male : single,none,2,car OR other,25,none,own,1,skilled employed OR official ,1,no,yes,1
+53,none,18,existing AND duly paid,car (used),3378,unknown OR no savings account,1 <= ... < 4y,2,male : single,none,1,society savings agreement OR life insurance,31,none,own,1,skilled employed OR official ,1,yes,yes,1
+54, 0 <= ... <= 200,36,delayed,car (new),2225, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,57,bank,for free,2,skilled employed OR official ,1,yes,yes,2
+55,none,6,duly paid,car (new),783,unknown OR no savings account,1 <= ... < 4y,1,male : single,guarantor,2,real estate,26,stores,own,1,unskilled - resident,2,no,yes,1
+56, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,6468,unknown OR no savings account,unemployed,2,male : single,none,1,none OR unknown,52,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+57,none,36,critical account,radio OR tv,9566, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,car OR other,31,stores,own,2,skilled employed OR official ,1,no,yes,1
+58,200 < ...,18,existing AND duly paid,car (new),1961, ... < 100,7y <= ...,3,female : married OR separated OR divorced,none,2,car OR other,23,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+59,negative,36,critical account,furniture,6229, ... < 100, ... < 1y,4,female : married OR separated OR divorced,co-applicant,4,none OR unknown,23,none,rent,2,unskilled - resident,1,yes,yes,2
+60, 0 <= ... <= 200,9,existing AND duly paid,business,1391, ... < 100,1 <= ... < 4y,2,male : married,none,1,real estate,27,bank,own,1,skilled employed OR official ,1,yes,yes,1
+61, 0 <= ... <= 200,15,critical account,radio OR tv,1537,unknown OR no savings account,7y <= ...,4,male : single,guarantor,4,real estate,50,none,own,2,skilled employed OR official ,1,yes,yes,1
+62, 0 <= ... <= 200,36,none OR duly paid,business,1953, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,61,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+63, 0 <= ... <= 200,48,none OR duly paid,business,14421, ... < 100,1 <= ... < 4y,2,male : single,none,2,car OR other,25,none,own,1,skilled employed OR official ,1,yes,yes,2
+64,none,24,existing AND duly paid,radio OR tv,3181, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,26,none,own,1,skilled employed OR official ,1,yes,yes,1
+65,none,27,existing AND duly paid,repairs,5190,unknown OR no savings account,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,48,none,own,4,skilled employed OR official ,2,yes,yes,1
+66,none,12,existing AND duly paid,radio OR tv,2171, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,2,car OR other,29,bank,own,1,skilled employed OR official ,1,no,yes,1
+67, 0 <= ... <= 200,12,existing AND duly paid,car (new),1007,1000 <= ...,1 <= ... < 4y,4,male : married,none,1,real estate,22,none,own,1,skilled employed OR official ,1,no,yes,1
+68,none,36,existing AND duly paid,education,1819, ... < 100,1 <= ... < 4y,4,male : single,none,4,none OR unknown,37,stores,for free,1,skilled employed OR official ,1,yes,yes,2
+69,none,36,existing AND duly paid,radio OR tv,2394,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,car OR other,25,none,own,1,skilled employed OR official ,1,no,yes,1
+70,none,36,existing AND duly paid,car (used),8133, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,30,bank,own,1,skilled employed OR official ,1,no,yes,1
+71,none,7,critical account,radio OR tv,730,unknown OR no savings account,7y <= ...,4,male : single,none,2,society savings agreement OR life insurance,46,none,rent,2,unskilled - resident,1,yes,yes,1
+72,negative,8,critical account,other,1164, ... < 100,7y <= ...,3,male : single,none,4,none OR unknown,51,bank,for free,2,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+73, 0 <= ... <= 200,42,critical account,business,5954, ... < 100,4 <= ... < 7y,2,female : married OR separated OR divorced,none,1,real estate,41,bank,own,2,unskilled - resident,1,no,yes,1
+74,negative,36,existing AND duly paid,education,1977,unknown OR no savings account,7y <= ...,4,male : single,none,4,none OR unknown,40,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+75,negative,12,critical account,car (used),1526, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,66,none,for free,2,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+76,negative,42,existing AND duly paid,radio OR tv,3965, ... < 100, ... < 1y,4,male : single,none,3,car OR other,34,none,own,1,skilled employed OR official ,1,no,yes,2
+77, 0 <= ... <= 200,11,delayed,radio OR tv,4771, ... < 100,4 <= ... < 7y,2,male : single,none,4,society savings agreement OR life insurance,51,none,own,1,skilled employed OR official ,1,no,yes,1
+78,none,54,none OR duly paid,car (used),9436,unknown OR no savings account,1 <= ... < 4y,2,male : single,none,2,society savings agreement OR life insurance,39,none,own,1,unskilled - resident,2,no,yes,1
+79, 0 <= ... <= 200,30,existing AND duly paid,furniture,3832, ... < 100, ... < 1y,2,male : married,none,1,society savings agreement OR life insurance,22,none,own,1,skilled employed OR official ,1,no,yes,1
+80,none,24,existing AND duly paid,radio OR tv,5943,unknown OR no savings account, ... < 1y,1,female : married OR separated OR divorced,none,1,car OR other,44,none,own,2,skilled employed OR official ,1,yes,yes,2
+81,none,15,existing AND duly paid,radio OR tv,1213,500 <= ... < 1000,7y <= ...,4,male : single,none,3,society savings agreement OR life insurance,47,stores,own,1,skilled employed OR official ,1,yes,yes,1
+82,none,18,existing AND duly paid,business,1568,100 <= ... < 500,1 <= ... < 4y,3,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,24,none,rent,1,unskilled - resident,1,no,yes,1
+83,negative,24,existing AND duly paid,other,1755, ... < 100,7y <= ...,4,female : married OR separated OR divorced,guarantor,4,real estate,58,none,own,1,unskilled - resident,1,yes,yes,1
+84,negative,10,existing AND duly paid,radio OR tv,2315, ... < 100,7y <= ...,3,male : single,none,4,real estate,52,none,own,1,unskilled - resident,1,no,yes,1
+85,none,12,critical account,business,1412, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,guarantor,2,real estate,29,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+86, 0 <= ... <= 200,18,critical account,furniture,1295, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,27,none,own,2,skilled employed OR official ,1,no,yes,1
+87, 0 <= ... <= 200,36,existing AND duly paid,education,12612,100 <= ... < 500,1 <= ... < 4y,1,male : single,none,4,none OR unknown,47,none,for free,1,skilled employed OR official ,2,yes,yes,2
+88,negative,18,existing AND duly paid,car (new),2249,100 <= ... < 500,4 <= ... < 7y,4,male : single,none,3,car OR other,30,none,own,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+89,negative,12,none OR duly paid,repairs,1108, ... < 100,4 <= ... < 7y,4,male : single,none,3,real estate,28,none,own,2,skilled employed OR official ,1,no,yes,2
+90,none,12,critical account,radio OR tv,618, ... < 100,7y <= ...,4,male : single,none,4,real estate,56,none,own,1,skilled employed OR official ,1,no,yes,1
+91,negative,12,critical account,car (used),1409, ... < 100,7y <= ...,4,male : single,none,3,real estate,54,none,own,1,skilled employed OR official ,1,no,yes,1
+92,none,12,critical account,radio OR tv,797,unknown OR no savings account,7y <= ...,4,female : married OR separated OR divorced,none,3,society savings agreement OR life insurance,33,bank,own,1,unskilled - resident,2,no,yes,2
+93,200 < ...,24,critical account,furniture,3617,unknown OR no savings account,7y <= ...,4,male : single,co-applicant,4,none OR unknown,20,none,rent,2,skilled employed OR official ,1,no,yes,1
+94, 0 <= ... <= 200,12,existing AND duly paid,car (new),1318,1000 <= ...,7y <= ...,4,male : single,none,4,real estate,54,none,own,1,skilled employed OR official ,1,yes,yes,1
+95, 0 <= ... <= 200,54,none OR duly paid,business,15945, ... < 100, ... < 1y,3,male : single,none,4,none OR unknown,58,none,rent,1,skilled employed OR official ,1,yes,yes,2
+96,none,12,critical account,education,2012,unknown OR no savings account,4 <= ... < 7y,4,female : married OR separated OR divorced,none,2,car OR other,61,none,own,1,skilled employed OR official ,1,no,yes,1
+97, 0 <= ... <= 200,18,existing AND duly paid,business,2622,100 <= ... < 500,1 <= ... < 4y,4,male : single,none,4,car OR other,34,none,own,1,skilled employed OR official ,1,no,yes,1
+98, 0 <= ... <= 200,36,critical account,radio OR tv,2337, ... < 100,7y <= ...,4,male : single,none,4,real estate,36,none,own,1,skilled employed OR official ,1,no,yes,1
+99, 0 <= ... <= 200,20,delayed,car (used),7057,unknown OR no savings account,4 <= ... < 7y,3,male : single,none,4,society savings agreement OR life insurance,36,bank,rent,2,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+100,none,24,existing AND duly paid,car (new),1469,100 <= ... < 500,7y <= ...,4,male : married,none,4,real estate,41,none,rent,1,unskilled - resident,1,no,yes,1
+101, 0 <= ... <= 200,36,existing AND duly paid,radio OR tv,2323, ... < 100,4 <= ... < 7y,4,male : single,none,4,car OR other,24,none,rent,1,skilled employed OR official ,1,no,yes,1
+102,none,6,delayed,radio OR tv,932, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,real estate,24,none,own,1,skilled employed OR official ,1,no,yes,1
+103, 0 <= ... <= 200,9,critical account,furniture,1919, ... < 100,4 <= ... < 7y,4,male : single,none,3,car OR other,35,none,rent,1,skilled employed OR official ,1,yes,yes,1
+104,none,12,existing AND duly paid,car (used),2445,unknown OR no savings account, ... < 1y,2,male : married,none,4,car OR other,26,none,rent,1,skilled employed OR official ,1,yes,yes,1
+105, 0 <= ... <= 200,24,critical account,other,11938, ... < 100,1 <= ... < 4y,2,male : single,co-applicant,3,car OR other,39,none,own,2,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,2
+106,none,18,duly paid,car (new),6458, ... < 100,7y <= ...,2,male : single,none,4,none OR unknown,39,bank,own,2,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,2
+107, 0 <= ... <= 200,12,existing AND duly paid,car (new),6078, ... < 100,4 <= ... < 7y,2,male : single,none,2,car OR other,32,none,own,1,skilled employed OR official ,1,no,yes,1
+108,negative,24,existing AND duly paid,furniture,7721,unknown OR no savings account, ... < 1y,1,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,30,none,own,1,skilled employed OR official ,1,yes,no,1
+109, 0 <= ... <= 200,14,existing AND duly paid,business,1410,500 <= ... < 1000,7y <= ...,1,male : married,none,2,real estate,35,none,own,1,skilled employed OR official ,1,yes,yes,1
+110, 0 <= ... <= 200,6,delayed,business,1449,100 <= ... < 500,7y <= ...,1,male : separated OR divorced,none,2,car OR other,31,bank,own,2,skilled employed OR official ,2,no,yes,1
+111,200 < ...,15,existing AND duly paid,education,392, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,23,none,rent,1,skilled employed OR official ,1,yes,yes,1
+112, 0 <= ... <= 200,18,existing AND duly paid,car (new),6260, ... < 100,4 <= ... < 7y,3,male : single,none,3,real estate,28,none,rent,1,unskilled - resident,1,no,yes,1
+113,none,36,critical account,car (new),7855, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,real estate,25,stores,own,2,skilled employed OR official ,1,yes,yes,2
+114,negative,12,existing AND duly paid,radio OR tv,1680,500 <= ... < 1000,7y <= ...,3,male : married,none,1,real estate,35,none,own,1,skilled employed OR official ,1,no,yes,1
+115,none,48,critical account,radio OR tv,3578,unknown OR no savings account,7y <= ...,4,male : single,none,1,real estate,47,none,own,1,skilled employed OR official ,1,yes,yes,1
+116,negative,42,existing AND duly paid,radio OR tv,7174,unknown OR no savings account,4 <= ... < 7y,4,female : married OR separated OR divorced,none,3,car OR other,30,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+117,negative,10,critical account,furniture,2132,unknown OR no savings account, ... < 1y,2,female : married OR separated OR divorced,co-applicant,3,real estate,27,none,rent,2,skilled employed OR official ,1,no,no,1
+118,negative,33,critical account,furniture,4281,500 <= ... < 1000,1 <= ... < 4y,1,female : married OR separated OR divorced,none,4,car OR other,23,none,own,2,skilled employed OR official ,1,no,yes,2
+119, 0 <= ... <= 200,12,critical account,car (new),2366,500 <= ... < 1000,4 <= ... < 7y,3,male : separated OR divorced,none,3,car OR other,36,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+120,negative,21,existing AND duly paid,radio OR tv,1835, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,real estate,25,none,own,2,skilled employed OR official ,1,yes,yes,2
+121,none,24,critical account,car (used),3868, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,2,car OR other,41,none,rent,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+122,none,12,existing AND duly paid,furniture,1768, ... < 100,1 <= ... < 4y,3,male : single,none,2,real estate,24,none,rent,1,unskilled - resident,1,no,yes,1
+123,200 < ...,10,critical account,car (new),781, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,63,none,for free,2,skilled employed OR official ,1,yes,yes,1
+124, 0 <= ... <= 200,18,existing AND duly paid,furniture,1924,unknown OR no savings account, ... < 1y,4,female : married OR separated OR divorced,none,3,real estate,27,none,rent,1,skilled employed OR official ,1,no,yes,2
+125,negative,12,critical account,car (new),2121, ... < 100,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,30,none,own,2,skilled employed OR official ,1,no,yes,1
+126,negative,12,existing AND duly paid,radio OR tv,701, ... < 100,1 <= ... < 4y,4,male : married,none,2,real estate,40,none,own,1,unskilled - resident,1,no,yes,1
+127, 0 <= ... <= 200,12,existing AND duly paid,repairs,639, ... < 100,1 <= ... < 4y,4,male : single,none,2,car OR other,30,none,own,1,skilled employed OR official ,1,no,yes,2
+128, 0 <= ... <= 200,12,critical account,car (used),1860, ... < 100,unemployed,4,male : single,none,2,car OR other,34,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+129,negative,12,critical account,car (new),3499, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,co-applicant,2,real estate,29,none,own,2,skilled employed OR official ,1,no,yes,2
+130, 0 <= ... <= 200,48,existing AND duly paid,car (new),8487,unknown OR no savings account,4 <= ... < 7y,1,female : married OR separated OR divorced,none,2,car OR other,24,none,own,1,skilled employed OR official ,1,no,yes,1
+131,negative,36,delayed,education,6887, ... < 100,1 <= ... < 4y,4,male : single,none,3,society savings agreement OR life insurance,29,stores,own,1,skilled employed OR official ,1,yes,yes,2
+132,none,15,existing AND duly paid,furniture,2708, ... < 100, ... < 1y,2,male : single,none,3,society savings agreement OR life insurance,27,bank,own,2,unskilled - resident,1,no,yes,1
+133,none,18,existing AND duly paid,furniture,1984, ... < 100,1 <= ... < 4y,4,male : single,none,4,none OR unknown,47,bank,for free,2,skilled employed OR official ,1,no,yes,1
+134,none,60,existing AND duly paid,radio OR tv,10144,100 <= ... < 500,4 <= ... < 7y,2,female : married OR separated OR divorced,none,4,real estate,21,none,own,1,skilled employed OR official ,1,yes,yes,1
+135,none,12,critical account,radio OR tv,1240,unknown OR no savings account,7y <= ...,4,female : married OR separated OR divorced,none,2,real estate,38,none,own,2,skilled employed OR official ,1,yes,yes,1
+136,none,27,delayed,car (used),8613,1000 <= ...,1 <= ... < 4y,2,male : single,none,2,car OR other,27,none,own,2,skilled employed OR official ,1,no,yes,1
+137, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,766,500 <= ... < 1000,1 <= ... < 4y,4,male : single,none,3,real estate,66,none,own,1,unskilled - resident,1,no,yes,2
+138, 0 <= ... <= 200,15,critical account,radio OR tv,2728,unknown OR no savings account,4 <= ... < 7y,4,male : single,guarantor,2,real estate,35,bank,own,3,skilled employed OR official ,1,yes,yes,1
+139,200 < ...,12,existing AND duly paid,radio OR tv,1881, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,car OR other,44,none,rent,1,unskilled - resident,1,yes,yes,1
+140,200 < ...,6,existing AND duly paid,car (new),709,1000 <= ..., ... < 1y,2,male : married,none,2,real estate,27,none,own,1,unemployed OR unskilled - non-resident,1,no,no,1
+141, 0 <= ... <= 200,36,existing AND duly paid,radio OR tv,4795, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,none OR unknown,30,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+142,negative,27,existing AND duly paid,radio OR tv,3416, ... < 100,1 <= ... < 4y,3,male : single,none,2,car OR other,27,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+143,negative,18,existing AND duly paid,furniture,2462, ... < 100,1 <= ... < 4y,2,male : single,none,2,car OR other,22,none,own,1,skilled employed OR official ,1,no,yes,2
+144,none,21,critical account,furniture,2288, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,23,none,own,1,skilled employed OR official ,1,yes,yes,1
+145, 0 <= ... <= 200,48,duly paid,business,3566,100 <= ... < 500,4 <= ... < 7y,4,male : single,none,2,car OR other,30,none,own,1,skilled employed OR official ,1,no,yes,1
+146,negative,6,critical account,car (new),860, ... < 100,7y <= ...,1,female : married OR separated OR divorced,none,4,none OR unknown,39,none,own,2,skilled employed OR official ,1,yes,yes,1
+147,none,12,critical account,car (new),682,100 <= ... < 500,4 <= ... < 7y,4,female : married OR separated OR divorced,none,3,car OR other,51,none,own,2,skilled employed OR official ,1,yes,yes,1
+148,negative,36,critical account,furniture,5371, ... < 100,1 <= ... < 4y,3,male : single,guarantor,2,society savings agreement OR life insurance,28,none,own,2,skilled employed OR official ,1,no,yes,1
+149,none,18,critical account,radio OR tv,1582,1000 <= ...,7y <= ...,4,male : single,none,4,car OR other,46,none,own,2,skilled employed OR official ,1,no,yes,1
+150,none,6,existing AND duly paid,radio OR tv,1346,100 <= ... < 500,7y <= ...,2,male : single,none,4,none OR unknown,42,bank,for free,1,skilled employed OR official ,2,yes,yes,1
+151,none,10,existing AND duly paid,radio OR tv,1924, ... < 100,1 <= ... < 4y,1,male : single,none,4,society savings agreement OR life insurance,38,none,own,1,skilled employed OR official ,1,yes,no,1
+152,200 < ...,36,existing AND duly paid,radio OR tv,5848, ... < 100,1 <= ... < 4y,4,male : single,none,1,car OR other,24,none,own,1,skilled employed OR official ,1,no,yes,1
+153, 0 <= ... <= 200,24,critical account,car (used),7758,1000 <= ...,7y <= ...,2,female : married OR separated OR divorced,none,4,none OR unknown,29,none,rent,1,skilled employed OR official ,1,no,yes,1
+154, 0 <= ... <= 200,24,delayed,business,6967,100 <= ... < 500,4 <= ... < 7y,4,male : single,none,4,car OR other,36,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+155,negative,12,existing AND duly paid,furniture,1282, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,car OR other,20,none,rent,1,skilled employed OR official ,1,no,yes,2
+156,negative,9,critical account,repairs,1288,100 <= ... < 500,7y <= ...,3,male : single,guarantor,4,real estate,48,none,own,2,skilled employed OR official ,2,no,no,1
+157,negative,12,duly paid,retraining,339, ... < 100,7y <= ...,4,male : married,none,1,car OR other,45,bank,own,1,unskilled - resident,1,no,yes,1
+158, 0 <= ... <= 200,24,existing AND duly paid,car (new),3512,100 <= ... < 500,4 <= ... < 7y,2,male : single,none,3,car OR other,38,bank,own,2,skilled employed OR official ,1,yes,yes,1
+159,none,6,critical account,radio OR tv,1898,unknown OR no savings account,1 <= ... < 4y,1,male : single,none,2,real estate,34,none,own,2,unskilled - resident,2,no,yes,1
+160,none,24,critical account,radio OR tv,2872,100 <= ... < 500,7y <= ...,3,male : single,none,4,real estate,36,none,own,1,skilled employed OR official ,2,yes,yes,1
+161,none,18,critical account,car (new),1055, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,30,none,own,2,skilled employed OR official ,1,no,yes,1
+162,none,15,existing AND duly paid,domestic appliances,1262,500 <= ... < 1000,4 <= ... < 7y,4,male : single,none,3,society savings agreement OR life insurance,36,none,own,2,skilled employed OR official ,1,yes,yes,1
+163, 0 <= ... <= 200,10,existing AND duly paid,car (new),7308, ... < 100,unemployed,2,male : single,none,4,none OR unknown,70,bank,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+164,none,36,existing AND duly paid,car (new),909,500 <= ... < 1000,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,36,none,own,1,skilled employed OR official ,1,no,yes,1
+165,none,6,existing AND duly paid,furniture,2978,500 <= ... < 1000,1 <= ... < 4y,1,male : single,none,2,car OR other,32,none,own,1,skilled employed OR official ,1,yes,yes,1
+166,negative,18,existing AND duly paid,furniture,1131, ... < 100,unemployed,4,female : married OR separated OR divorced,none,2,car OR other,33,none,own,1,skilled employed OR official ,1,no,yes,2
+167, 0 <= ... <= 200,11,existing AND duly paid,furniture,1577,1000 <= ..., ... < 1y,4,female : married OR separated OR divorced,none,1,real estate,20,none,own,1,skilled employed OR official ,1,no,yes,1
+168,none,24,existing AND duly paid,furniture,3972, ... < 100,4 <= ... < 7y,2,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,25,none,rent,1,skilled employed OR official ,1,yes,yes,1
+169, 0 <= ... <= 200,24,critical account,business,1935, ... < 100,7y <= ...,4,male : separated OR divorced,none,4,real estate,31,none,own,2,skilled employed OR official ,1,yes,yes,2
+170,negative,15,none OR duly paid,car (new),950, ... < 100,7y <= ...,4,male : single,none,3,car OR other,33,none,rent,2,skilled employed OR official ,2,no,yes,2
+171,none,12,existing AND duly paid,furniture,763, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,1,real estate,26,none,own,1,skilled employed OR official ,1,yes,yes,1
+172, 0 <= ... <= 200,24,delayed,furniture,2064, ... < 100,unemployed,3,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,34,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+173, 0 <= ... <= 200,8,existing AND duly paid,radio OR tv,1414, ... < 100,1 <= ... < 4y,4,male : single,guarantor,2,real estate,33,none,own,1,skilled employed OR official ,1,no,no,1
+174,negative,21,delayed,education,3414, ... < 100, ... < 1y,2,male : single,none,1,society savings agreement OR life insurance,26,none,own,2,skilled employed OR official ,1,no,yes,2
+175,none,30,duly paid,car (used),7485,unknown OR no savings account,unemployed,4,female : married OR separated OR divorced,none,1,real estate,53,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+176,negative,12,existing AND duly paid,furniture,2577, ... < 100,1 <= ... < 4y,2,male : separated OR divorced,none,1,car OR other,42,none,own,1,skilled employed OR official ,1,no,yes,1
+177,negative,6,critical account,radio OR tv,338,500 <= ... < 1000,7y <= ...,4,male : single,none,4,car OR other,52,none,own,2,skilled employed OR official ,1,no,yes,1
+178,none,12,existing AND duly paid,radio OR tv,1963, ... < 100,4 <= ... < 7y,4,male : single,none,2,car OR other,31,none,rent,2,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+179,negative,21,critical account,car (new),571, ... < 100,7y <= ...,4,male : single,none,4,real estate,65,none,own,2,skilled employed OR official ,1,no,yes,1
+180,none,36,delayed,business,9572, ... < 100, ... < 1y,1,male : separated OR divorced,none,1,car OR other,28,none,own,2,skilled employed OR official ,1,no,yes,2
+181, 0 <= ... <= 200,36,delayed,business,4455, ... < 100,1 <= ... < 4y,2,male : separated OR divorced,none,2,real estate,30,stores,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+182,negative,21,duly paid,car (new),1647,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,40,none,own,2,unskilled - resident,2,no,yes,2
+183,none,24,critical account,furniture,3777,1000 <= ...,1 <= ... < 4y,4,male : single,none,4,real estate,50,none,own,1,skilled employed OR official ,1,yes,yes,1
+184, 0 <= ... <= 200,18,critical account,car (new),884, ... < 100,7y <= ...,4,male : single,none,4,car OR other,36,bank,own,1,skilled employed OR official ,2,yes,yes,2
+185,none,15,critical account,radio OR tv,1360, ... < 100,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,31,none,own,2,skilled employed OR official ,1,no,yes,1
+186, 0 <= ... <= 200,9,duly paid,car (used),5129, ... < 100,7y <= ...,2,female : married OR separated OR divorced,none,4,none OR unknown,74,bank,for free,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,2
+187, 0 <= ... <= 200,16,critical account,car (new),1175, ... < 100,unemployed,2,male : single,none,3,car OR other,68,none,for free,3,unemployed OR unskilled - non-resident,1,yes,yes,1
+188,negative,12,existing AND duly paid,radio OR tv,674,100 <= ... < 500,4 <= ... < 7y,4,male : married,none,1,society savings agreement OR life insurance,20,none,own,1,skilled employed OR official ,1,no,yes,2
+189, 0 <= ... <= 200,18,none OR duly paid,furniture,3244, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,4,car OR other,33,bank,own,2,skilled employed OR official ,1,yes,yes,1
+190,none,24,existing AND duly paid,business,4591,1000 <= ...,1 <= ... < 4y,2,male : single,none,3,society savings agreement OR life insurance,54,none,own,3,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+191, 0 <= ... <= 200,48,none OR duly paid,business,3844,100 <= ... < 500,4 <= ... < 7y,4,male : single,none,4,none OR unknown,34,none,for free,1,unskilled - resident,2,no,yes,2
+192, 0 <= ... <= 200,27,existing AND duly paid,business,3915, ... < 100,1 <= ... < 4y,4,male : single,none,2,car OR other,36,none,own,1,skilled employed OR official ,2,yes,yes,2
+193,none,6,existing AND duly paid,radio OR tv,2108, ... < 100,4 <= ... < 7y,2,male : married,none,2,real estate,29,none,rent,1,skilled employed OR official ,1,no,yes,1
+194, 0 <= ... <= 200,45,existing AND duly paid,radio OR tv,3031,100 <= ... < 500,1 <= ... < 4y,4,male : single,guarantor,4,society savings agreement OR life insurance,21,none,rent,1,skilled employed OR official ,1,no,yes,2
+195, 0 <= ... <= 200,9,critical account,education,1501, ... < 100,7y <= ...,2,female : married OR separated OR divorced,none,3,car OR other,34,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+196,none,6,critical account,radio OR tv,1382, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,1,car OR other,28,none,own,2,skilled employed OR official ,1,yes,yes,1
+197, 0 <= ... <= 200,12,existing AND duly paid,furniture,951,100 <= ... < 500, ... < 1y,4,female : married OR separated OR divorced,none,4,car OR other,27,bank,rent,4,skilled employed OR official ,1,no,yes,2
+198, 0 <= ... <= 200,24,existing AND duly paid,car (used),2760,unknown OR no savings account,7y <= ...,4,male : single,none,4,none OR unknown,36,bank,for free,1,skilled employed OR official ,1,yes,yes,1
+199, 0 <= ... <= 200,18,delayed,furniture,4297, ... < 100,7y <= ...,4,male : separated OR divorced,none,3,none OR unknown,40,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+200,none,9,critical account,education,936,500 <= ... < 1000,7y <= ...,4,male : single,none,2,car OR other,52,none,own,2,skilled employed OR official ,1,yes,yes,1
+201,negative,12,existing AND duly paid,car (new),1168, ... < 100,1 <= ... < 4y,4,male : married,none,3,real estate,27,none,own,1,unskilled - resident,1,no,yes,1
+202,none,27,delayed,business,5117, ... < 100,4 <= ... < 7y,3,male : single,none,4,car OR other,26,none,own,2,skilled employed OR official ,1,no,yes,1
+203,negative,12,existing AND duly paid,retraining,902, ... < 100,4 <= ... < 7y,4,male : married,none,4,society savings agreement OR life insurance,21,none,rent,1,skilled employed OR official ,1,no,yes,2
+204,none,12,critical account,car (new),1495, ... < 100,7y <= ...,4,male : single,none,1,real estate,38,none,own,2,unskilled - resident,2,no,yes,1
+205,negative,30,critical account,car (used),10623, ... < 100,7y <= ...,3,male : single,none,4,none OR unknown,38,none,for free,3,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+206,none,12,critical account,furniture,1935, ... < 100,7y <= ...,4,male : single,none,4,real estate,43,none,own,3,skilled employed OR official ,1,yes,yes,1
+207, 0 <= ... <= 200,12,critical account,domestic appliances,1424, ... < 100,4 <= ... < 7y,4,male : single,none,3,society savings agreement OR life insurance,26,none,own,1,skilled employed OR official ,1,no,yes,1
+208,negative,24,existing AND duly paid,business,6568, ... < 100,1 <= ... < 4y,2,male : married,none,2,car OR other,21,stores,own,1,unskilled - resident,1,no,yes,1
+209,none,12,existing AND duly paid,car (used),1413,1000 <= ...,4 <= ... < 7y,3,male : single,none,2,society savings agreement OR life insurance,55,none,own,1,skilled employed OR official ,1,no,no,1
+210,none,9,critical account,radio OR tv,3074,unknown OR no savings account,1 <= ... < 4y,1,male : single,none,2,real estate,33,none,own,2,skilled employed OR official ,2,no,yes,1
+211,none,36,existing AND duly paid,radio OR tv,3835,unknown OR no savings account,7y <= ...,2,female : married OR separated OR divorced,none,4,real estate,45,none,own,1,unskilled - resident,1,yes,yes,1
+212,negative,27,none OR duly paid,business,5293, ... < 100,unemployed,2,male : single,none,4,society savings agreement OR life insurance,50,stores,own,2,skilled employed OR official ,1,yes,yes,2
+213,200 < ...,30,delayed,business,1908, ... < 100,7y <= ...,4,male : single,none,4,real estate,66,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+214,none,36,critical account,radio OR tv,3342,unknown OR no savings account,7y <= ...,4,male : single,none,2,car OR other,51,none,own,1,skilled employed OR official ,1,yes,yes,1
+215, 0 <= ... <= 200,6,critical account,retraining,932,unknown OR no savings account,4 <= ... < 7y,1,female : married OR separated OR divorced,none,3,society savings agreement OR life insurance,39,none,own,2,unskilled - resident,1,no,yes,1
+216,negative,18,none OR duly paid,business,3104, ... < 100,4 <= ... < 7y,3,male : single,none,1,society savings agreement OR life insurance,31,bank,own,1,skilled employed OR official ,1,yes,yes,1
+217,200 < ...,36,existing AND duly paid,radio OR tv,3913, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,23,none,own,1,skilled employed OR official ,1,yes,yes,1
+218,negative,24,existing AND duly paid,furniture,3021, ... < 100,1 <= ... < 4y,2,male : separated OR divorced,none,2,real estate,24,none,rent,1,unskilled - resident,1,no,yes,1
+219,none,10,existing AND duly paid,car (new),1364, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,car OR other,64,none,own,1,skilled employed OR official ,1,yes,yes,1
+220, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,625, ... < 100, ... < 1y,4,male : married,guarantor,1,real estate,26,bank,own,1,unskilled - resident,1,no,yes,1
+221,negative,12,existing AND duly paid,education,1200,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,23,bank,rent,1,skilled employed OR official ,1,yes,yes,1
+222,none,12,existing AND duly paid,radio OR tv,707, ... < 100,1 <= ... < 4y,4,male : single,none,2,real estate,30,bank,own,2,skilled employed OR official ,1,no,yes,1
+223,none,24,delayed,business,2978,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,4,real estate,32,none,own,2,skilled employed OR official ,2,yes,yes,1
+224,none,15,existing AND duly paid,car (used),4657, ... < 100,1 <= ... < 4y,3,male : single,none,2,car OR other,30,none,own,1,skilled employed OR official ,1,yes,yes,1
+225,none,36,none OR duly paid,repairs,2613, ... < 100,1 <= ... < 4y,4,male : single,none,2,car OR other,27,none,own,2,skilled employed OR official ,1,no,yes,1
+226, 0 <= ... <= 200,48,existing AND duly paid,radio OR tv,10961,1000 <= ...,4 <= ... < 7y,1,male : single,co-applicant,2,none OR unknown,27,bank,own,2,skilled employed OR official ,1,yes,yes,2
+227,negative,12,existing AND duly paid,furniture,7865, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,53,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+228,none,9,existing AND duly paid,radio OR tv,1478, ... < 100,4 <= ... < 7y,4,male : single,none,2,car OR other,22,none,own,1,skilled employed OR official ,1,no,yes,2
+229,negative,24,existing AND duly paid,furniture,3149, ... < 100, ... < 1y,4,male : single,none,1,none OR unknown,22,bank,for free,1,skilled employed OR official ,1,no,yes,1
+230,200 < ...,36,existing AND duly paid,radio OR tv,4210, ... < 100,1 <= ... < 4y,4,male : single,none,2,car OR other,26,none,own,1,skilled employed OR official ,1,no,yes,2
+231,none,9,existing AND duly paid,car (new),2507,500 <= ... < 1000,7y <= ...,2,male : single,none,4,none OR unknown,51,none,for free,1,unskilled - resident,1,no,yes,1
+232,none,12,existing AND duly paid,radio OR tv,2141,100 <= ... < 500,4 <= ... < 7y,3,male : single,none,1,none OR unknown,35,none,own,1,skilled employed OR official ,1,no,yes,1
+233, 0 <= ... <= 200,18,existing AND duly paid,radio OR tv,866, ... < 100,1 <= ... < 4y,4,male : married,guarantor,2,real estate,25,none,own,1,unskilled - resident,1,no,yes,1
+234,none,4,critical account,radio OR tv,1544, ... < 100,4 <= ... < 7y,2,male : single,none,1,real estate,42,none,own,3,unskilled - resident,2,no,yes,1
+235,negative,24,existing AND duly paid,radio OR tv,1823, ... < 100,unemployed,4,male : single,none,2,car OR other,30,stores,own,1,management OR self-employed OR highly qualified employee OR officer,2,no,yes,2
+236, 0 <= ... <= 200,6,existing AND duly paid,car (new),14555,unknown OR no savings account,unemployed,1,male : single,none,2,society savings agreement OR life insurance,23,none,own,1,unemployed OR unskilled - non-resident,1,yes,yes,2
+237, 0 <= ... <= 200,21,existing AND duly paid,business,2767,100 <= ... < 500,7y <= ...,4,male : separated OR divorced,none,2,car OR other,61,bank,rent,2,unskilled - resident,1,no,yes,2
+238,none,12,critical account,radio OR tv,1291, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,35,none,own,2,skilled employed OR official ,1,no,yes,1
+239,negative,30,existing AND duly paid,radio OR tv,2522, ... < 100,7y <= ...,1,male : single,guarantor,3,society savings agreement OR life insurance,39,none,own,1,skilled employed OR official ,2,no,yes,1
+240,negative,24,existing AND duly paid,car (new),915,unknown OR no savings account,7y <= ...,4,female : married OR separated OR divorced,none,2,car OR other,29,bank,own,1,skilled employed OR official ,1,no,yes,2
+241,none,6,existing AND duly paid,radio OR tv,1595, ... < 100,4 <= ... < 7y,3,male : single,none,2,society savings agreement OR life insurance,51,none,own,1,skilled employed OR official ,2,no,yes,1
+242,negative,48,none OR duly paid,car (used),4605, ... < 100,7y <= ...,3,male : single,none,4,none OR unknown,24,none,for free,2,skilled employed OR official ,2,no,yes,2
+243,none,12,critical account,business,1185, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,real estate,27,none,own,2,skilled employed OR official ,1,no,yes,1
+244,none,12,duly paid,retraining,3447,500 <= ... < 1000,1 <= ... < 4y,4,female : married OR separated OR divorced,none,3,real estate,35,none,own,1,unskilled - resident,2,no,yes,1
+245,none,24,existing AND duly paid,business,1258, ... < 100,4 <= ... < 7y,4,male : single,none,1,real estate,25,none,own,1,skilled employed OR official ,1,yes,yes,1
+246,none,12,critical account,radio OR tv,717, ... < 100,7y <= ...,4,male : single,none,4,real estate,52,none,own,3,skilled employed OR official ,1,no,yes,1
+247,none,6,none OR duly paid,car (new),1204,100 <= ... < 500,1 <= ... < 4y,4,male : single,none,1,none OR unknown,35,bank,rent,1,skilled employed OR official ,1,no,no,1
+248,200 < ...,24,existing AND duly paid,furniture,1925, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,26,none,own,1,skilled employed OR official ,1,no,yes,1
+249,none,18,existing AND duly paid,radio OR tv,433, ... < 100,unemployed,3,female : married OR separated OR divorced,co-applicant,4,real estate,22,none,rent,1,skilled employed OR official ,1,no,yes,2
+250,negative,6,critical account,car (new),666,1000 <= ...,4 <= ... < 7y,3,female : married OR separated OR divorced,none,4,real estate,39,none,own,2,unskilled - resident,1,yes,yes,1
+251,200 < ...,12,existing AND duly paid,furniture,2251, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,2,car OR other,46,none,own,1,unskilled - resident,1,no,yes,1
+252, 0 <= ... <= 200,30,existing AND duly paid,car (new),2150, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,guarantor,2,none OR unknown,24,bank,own,1,skilled employed OR official ,1,no,yes,2
+253,none,24,delayed,furniture,4151,100 <= ... < 500,1 <= ... < 4y,2,male : single,none,3,society savings agreement OR life insurance,35,none,own,2,skilled employed OR official ,1,no,yes,1
+254, 0 <= ... <= 200,9,existing AND duly paid,furniture,2030,unknown OR no savings account,4 <= ... < 7y,2,male : single,none,1,car OR other,24,none,own,1,skilled employed OR official ,1,yes,yes,1
+255, 0 <= ... <= 200,60,delayed,radio OR tv,7418,unknown OR no savings account,1 <= ... < 4y,1,male : single,none,1,real estate,27,none,own,1,unskilled - resident,1,no,yes,1
+256,none,24,critical account,radio OR tv,2684, ... < 100,1 <= ... < 4y,4,male : single,none,2,real estate,35,none,own,2,unskilled - resident,1,no,yes,1
+257,negative,12,duly paid,radio OR tv,2149, ... < 100,1 <= ... < 4y,4,male : separated OR divorced,none,1,none OR unknown,29,none,for free,1,skilled employed OR official ,1,no,yes,2
+258,none,15,existing AND duly paid,car (used),3812,100 <= ... < 500, ... < 1y,1,female : married OR separated OR divorced,none,4,car OR other,23,none,own,1,skilled employed OR official ,1,yes,yes,1
+259,none,11,critical account,radio OR tv,1154,100 <= ... < 500,unemployed,4,female : married OR separated OR divorced,none,4,real estate,57,none,own,3,unskilled - resident,1,no,yes,1
+260,negative,12,existing AND duly paid,furniture,1657, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,27,none,own,1,skilled employed OR official ,1,no,yes,1
+261,negative,24,existing AND duly paid,radio OR tv,1603, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,4,car OR other,55,none,own,1,skilled employed OR official ,1,no,yes,1
+262,negative,18,critical account,car (new),5302, ... < 100,7y <= ...,2,male : single,none,4,none OR unknown,36,none,for free,3,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+263,none,12,critical account,education,2748, ... < 100,7y <= ...,2,female : married OR separated OR divorced,none,4,none OR unknown,57,bank,for free,3,unskilled - resident,1,no,yes,1
+264,none,10,critical account,car (new),1231, ... < 100,7y <= ...,3,male : single,none,4,real estate,32,none,own,2,unskilled - resident,2,no,no,1
+265, 0 <= ... <= 200,15,existing AND duly paid,radio OR tv,802, ... < 100,7y <= ...,4,male : single,none,3,car OR other,37,none,own,1,skilled employed OR official ,2,no,yes,2
+266,none,36,critical account,business,6304,unknown OR no savings account,7y <= ...,4,male : single,none,4,real estate,36,none,own,2,skilled employed OR official ,1,no,yes,1
+267,none,24,existing AND duly paid,radio OR tv,1533, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,3,car OR other,38,stores,own,1,skilled employed OR official ,1,yes,yes,1
+268,negative,14,existing AND duly paid,car (new),8978, ... < 100,7y <= ...,1,male : separated OR divorced,none,4,society savings agreement OR life insurance,45,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,no,2
+269,none,24,existing AND duly paid,radio OR tv,999,unknown OR no savings account,7y <= ...,4,male : single,none,2,car OR other,25,none,own,2,skilled employed OR official ,1,no,yes,1
+270,none,18,existing AND duly paid,car (new),2662,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,3,society savings agreement OR life insurance,32,none,own,1,skilled employed OR official ,1,no,no,1
+271,none,12,critical account,furniture,1402,500 <= ... < 1000,4 <= ... < 7y,3,female : married OR separated OR divorced,none,4,car OR other,37,none,rent,1,skilled employed OR official ,1,yes,yes,1
+272, 0 <= ... <= 200,48,duly paid,car (new),12169,unknown OR no savings account,unemployed,4,male : single,co-applicant,4,none OR unknown,36,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+273, 0 <= ... <= 200,48,existing AND duly paid,radio OR tv,3060, ... < 100,4 <= ... < 7y,4,male : single,none,4,real estate,28,none,own,2,skilled employed OR official ,1,no,yes,2
+274,negative,30,existing AND duly paid,repairs,11998, ... < 100, ... < 1y,1,male : separated OR divorced,none,1,none OR unknown,34,none,own,1,unskilled - resident,1,yes,yes,2
+275,none,9,existing AND duly paid,radio OR tv,2697, ... < 100,1 <= ... < 4y,1,male : single,none,2,real estate,32,none,own,1,skilled employed OR official ,2,no,yes,1
+276,none,18,critical account,radio OR tv,2404, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,car OR other,26,none,own,2,skilled employed OR official ,1,no,yes,1
+277,negative,12,existing AND duly paid,furniture,1262,unknown OR no savings account,7y <= ...,2,male : separated OR divorced,none,4,society savings agreement OR life insurance,49,none,own,1,unskilled - resident,1,yes,yes,1
+278,none,6,existing AND duly paid,furniture,4611, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,32,none,own,1,skilled employed OR official ,1,no,yes,2
+279,none,24,existing AND duly paid,radio OR tv,1901,100 <= ... < 500,1 <= ... < 4y,4,male : single,none,4,car OR other,29,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+280,none,15,critical account,car (used),3368,1000 <= ...,7y <= ...,3,male : single,none,4,none OR unknown,23,none,rent,2,skilled employed OR official ,1,yes,yes,1
+281,none,12,existing AND duly paid,furniture,1574, ... < 100,1 <= ... < 4y,4,male : single,none,2,real estate,50,none,own,1,skilled employed OR official ,1,no,yes,1
+282,200 < ...,18,duly paid,radio OR tv,1445,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,4,car OR other,49,bank,own,1,unskilled - resident,1,no,yes,1
+283,none,15,critical account,furniture,1520,unknown OR no savings account,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,63,none,own,1,skilled employed OR official ,1,no,yes,1
+284, 0 <= ... <= 200,24,critical account,car (new),3878,100 <= ... < 500, ... < 1y,4,male : separated OR divorced,none,2,car OR other,37,none,own,1,skilled employed OR official ,1,yes,yes,1
+285,negative,47,existing AND duly paid,car (new),10722, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,1,real estate,35,none,own,1,unskilled - resident,1,yes,yes,1
+286,negative,48,existing AND duly paid,car (used),4788, ... < 100,4 <= ... < 7y,4,male : single,none,3,society savings agreement OR life insurance,26,none,own,1,skilled employed OR official ,2,no,yes,1
+287, 0 <= ... <= 200,48,delayed,other,7582,100 <= ... < 500,unemployed,2,male : single,none,4,none OR unknown,31,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+288, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,1092, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,guarantor,4,real estate,49,none,own,2,skilled employed OR official ,1,yes,yes,1
+289,negative,24,delayed,radio OR tv,1024, ... < 100, ... < 1y,4,male : married,none,4,real estate,48,stores,own,1,skilled employed OR official ,1,no,yes,2
+290,none,12,existing AND duly paid,business,1076, ... < 100,1 <= ... < 4y,2,male : married,none,2,real estate,26,none,own,1,skilled employed OR official ,1,yes,no,1
+291, 0 <= ... <= 200,36,existing AND duly paid,car (used),9398, ... < 100, ... < 1y,1,male : married,none,4,car OR other,28,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+292,negative,24,critical account,car (used),6419, ... < 100,7y <= ...,2,female : married OR separated OR divorced,none,4,none OR unknown,44,none,for free,2,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+293,200 < ...,42,critical account,car (used),4796, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,56,none,for free,1,skilled employed OR official ,1,no,yes,1
+294,none,48,critical account,business,7629,unknown OR no savings account,7y <= ...,4,male : separated OR divorced,none,2,car OR other,46,bank,own,2,management OR self-employed OR highly qualified employee OR officer,2,no,yes,1
+295, 0 <= ... <= 200,48,existing AND duly paid,furniture,9960, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,2,car OR other,26,none,own,1,skilled employed OR official ,1,yes,yes,2
+296,none,12,existing AND duly paid,car (used),4675,unknown OR no savings account, ... < 1y,1,female : married OR separated OR divorced,none,4,car OR other,20,none,rent,1,skilled employed OR official ,1,no,yes,1
+297,none,10,existing AND duly paid,car (new),1287,unknown OR no savings account,7y <= ...,4,male : single,co-applicant,2,society savings agreement OR life insurance,45,none,own,1,unskilled - resident,1,no,no,1
+298,none,18,existing AND duly paid,furniture,2515, ... < 100,1 <= ... < 4y,3,male : single,none,4,real estate,43,none,own,1,skilled employed OR official ,1,yes,yes,1
+299, 0 <= ... <= 200,21,critical account,furniture,2745,1000 <= ...,4 <= ... < 7y,3,male : single,none,2,car OR other,32,none,own,2,skilled employed OR official ,1,yes,yes,1
+300,none,6,existing AND duly paid,car (new),672, ... < 100,unemployed,1,female : married OR separated OR divorced,none,4,real estate,54,none,own,1,unemployed OR unskilled - non-resident,1,yes,yes,1
+301, 0 <= ... <= 200,36,none OR duly paid,radio OR tv,3804, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,1,car OR other,42,none,own,1,skilled employed OR official ,1,yes,yes,2
+302,200 < ...,24,critical account,car (new),1344,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,2,real estate,37,bank,own,2,unskilled - resident,2,no,yes,2
+303,negative,10,critical account,car (new),1038, ... < 100,4 <= ... < 7y,4,male : single,co-applicant,3,society savings agreement OR life insurance,49,none,own,2,skilled employed OR official ,1,yes,yes,1
+304,none,48,critical account,car (new),10127,500 <= ... < 1000,1 <= ... < 4y,2,male : single,none,2,none OR unknown,44,bank,for free,1,skilled employed OR official ,1,no,yes,2
+305,none,6,existing AND duly paid,furniture,1543,1000 <= ...,1 <= ... < 4y,4,male : separated OR divorced,none,2,real estate,33,none,own,1,skilled employed OR official ,1,no,yes,1
+306,none,30,existing AND duly paid,car (used),4811,unknown OR no savings account,4 <= ... < 7y,2,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,24,stores,rent,1,unskilled - resident,1,no,yes,1
+307,negative,12,existing AND duly paid,radio OR tv,727,100 <= ... < 500, ... < 1y,4,male : married,none,3,none OR unknown,33,none,own,1,unskilled - resident,1,yes,yes,2
+308, 0 <= ... <= 200,8,existing AND duly paid,furniture,1237, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,4,real estate,24,none,own,1,skilled employed OR official ,1,no,yes,2
+309, 0 <= ... <= 200,9,existing AND duly paid,car (new),276, ... < 100,1 <= ... < 4y,4,male : married,none,4,real estate,22,none,rent,1,unskilled - resident,1,no,yes,1
+310, 0 <= ... <= 200,48,existing AND duly paid,other,5381,unknown OR no savings account,unemployed,3,male : single,none,4,none OR unknown,40,bank,for free,1,unemployed OR unskilled - non-resident,1,yes,yes,1
+311,none,24,existing AND duly paid,furniture,5511,100 <= ... < 500,1 <= ... < 4y,4,male : single,none,1,car OR other,25,stores,own,1,skilled employed OR official ,1,no,yes,1
+312,200 < ...,24,existing AND duly paid,furniture,3749, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,4,car OR other,26,none,own,1,skilled employed OR official ,1,no,yes,1
+313, 0 <= ... <= 200,12,existing AND duly paid,car (new),685, ... < 100,4 <= ... < 7y,2,male : married,none,3,car OR other,25,bank,own,1,unskilled - resident,1,no,yes,2
+314,200 < ...,4,existing AND duly paid,car (new),1494,unknown OR no savings account, ... < 1y,1,male : single,none,2,real estate,29,none,own,1,unskilled - resident,2,no,no,1
+315,negative,36,duly paid,furniture,2746, ... < 100,7y <= ...,4,male : single,none,4,car OR other,31,bank,own,1,skilled employed OR official ,1,no,yes,2
+316,negative,12,existing AND duly paid,furniture,708, ... < 100,1 <= ... < 4y,2,male : single,guarantor,3,society savings agreement OR life insurance,38,none,own,1,unskilled - resident,2,no,yes,1
+317, 0 <= ... <= 200,24,existing AND duly paid,furniture,4351,unknown OR no savings account,1 <= ... < 4y,1,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,48,none,own,1,unskilled - resident,1,yes,yes,1
+318,none,12,critical account,education,701, ... < 100,1 <= ... < 4y,4,male : single,none,2,car OR other,32,none,own,2,skilled employed OR official ,1,no,yes,1
+319,negative,15,delayed,furniture,3643, ... < 100,7y <= ...,1,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,27,none,own,2,unskilled - resident,1,no,yes,1
+320, 0 <= ... <= 200,30,critical account,car (new),4249, ... < 100,unemployed,4,male : married,none,2,car OR other,28,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,no,yes,2
+321,negative,24,existing AND duly paid,radio OR tv,1938, ... < 100, ... < 1y,4,male : separated OR divorced,none,3,society savings agreement OR life insurance,32,none,own,1,skilled employed OR official ,1,no,yes,2
+322,negative,24,existing AND duly paid,car (used),2910, ... < 100,4 <= ... < 7y,2,male : single,none,1,none OR unknown,34,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+323,negative,18,existing AND duly paid,furniture,2659,1000 <= ...,1 <= ... < 4y,4,male : single,none,2,car OR other,28,none,own,1,skilled employed OR official ,1,no,yes,1
+324,none,18,critical account,car (new),1028, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,3,real estate,36,none,own,2,skilled employed OR official ,1,no,yes,1
+325,negative,8,critical account,car (new),3398, ... < 100,4 <= ... < 7y,1,male : single,none,4,real estate,39,none,own,2,unskilled - resident,1,no,no,1
+326,none,12,critical account,furniture,5801,unknown OR no savings account,7y <= ...,2,male : single,none,4,society savings agreement OR life insurance,49,none,rent,1,skilled employed OR official ,1,yes,yes,1
+327,none,24,existing AND duly paid,car (new),1525,1000 <= ...,4 <= ... < 7y,4,female : married OR separated OR divorced,none,3,car OR other,34,none,own,1,skilled employed OR official ,2,yes,yes,1
+328,200 < ...,36,existing AND duly paid,radio OR tv,4473, ... < 100,7y <= ...,4,male : single,none,2,car OR other,31,none,own,1,skilled employed OR official ,1,no,yes,1
+329, 0 <= ... <= 200,6,existing AND duly paid,radio OR tv,1068, ... < 100,7y <= ...,4,male : single,none,4,car OR other,28,none,own,1,skilled employed OR official ,2,no,yes,1
+330,negative,24,critical account,car (used),6615, ... < 100,unemployed,2,male : single,none,4,none OR unknown,75,none,for free,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+331,none,18,critical account,education,1864,100 <= ... < 500,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,real estate,30,none,own,2,skilled employed OR official ,1,no,yes,2
+332, 0 <= ... <= 200,60,existing AND duly paid,car (new),7408,100 <= ... < 500, ... < 1y,4,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,24,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,2
+333,none,48,critical account,car (used),11590,100 <= ... < 500,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,car OR other,24,bank,rent,2,unskilled - resident,1,no,yes,2
+334,negative,24,none OR duly paid,furniture,4110, ... < 100,7y <= ...,3,male : single,none,4,none OR unknown,23,bank,rent,2,skilled employed OR official ,2,no,yes,2
+335,negative,6,critical account,furniture,3384, ... < 100,1 <= ... < 4y,1,male : separated OR divorced,none,4,real estate,44,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+336, 0 <= ... <= 200,13,existing AND duly paid,radio OR tv,2101, ... < 100, ... < 1y,2,female : married OR separated OR divorced,guarantor,4,society savings agreement OR life insurance,23,none,own,1,unskilled - resident,1,no,yes,1
+337,negative,15,existing AND duly paid,domestic appliances,1275,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,car OR other,24,none,rent,1,skilled employed OR official ,1,no,yes,2
+338,negative,24,existing AND duly paid,furniture,4169, ... < 100,1 <= ... < 4y,4,male : single,none,4,society savings agreement OR life insurance,28,none,own,1,skilled employed OR official ,1,no,yes,1
+339, 0 <= ... <= 200,10,existing AND duly paid,furniture,1521, ... < 100,1 <= ... < 4y,4,male : separated OR divorced,none,2,car OR other,31,none,own,1,unskilled - resident,1,no,yes,1
+340, 0 <= ... <= 200,24,critical account,education,5743, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,4,none OR unknown,24,none,for free,2,skilled employed OR official ,1,yes,yes,1
+341,negative,21,existing AND duly paid,furniture,3599, ... < 100,4 <= ... < 7y,1,female : married OR separated OR divorced,none,4,car OR other,26,none,rent,1,unskilled - resident,1,no,yes,1
+342, 0 <= ... <= 200,18,existing AND duly paid,radio OR tv,3213,500 <= ... < 1000, ... < 1y,1,male : married,none,3,real estate,25,none,rent,1,skilled employed OR official ,1,no,yes,1
+343, 0 <= ... <= 200,18,existing AND duly paid,business,4439, ... < 100,7y <= ...,1,male : single,co-applicant,1,real estate,33,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+344,200 < ...,10,existing AND duly paid,car (new),3949, ... < 100, ... < 1y,1,male : single,guarantor,1,society savings agreement OR life insurance,37,none,own,1,unskilled - resident,2,no,yes,1
+345,none,15,critical account,radio OR tv,1459, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,car OR other,43,none,own,1,unskilled - resident,1,no,yes,1
+346, 0 <= ... <= 200,13,critical account,radio OR tv,882, ... < 100, ... < 1y,4,male : single,guarantor,4,real estate,23,none,own,2,skilled employed OR official ,1,no,yes,1
+347, 0 <= ... <= 200,24,existing AND duly paid,radio OR tv,3758,500 <= ... < 1000,unemployed,1,female : married OR separated OR divorced,none,4,none OR unknown,23,none,rent,1,unemployed OR unskilled - non-resident,1,no,yes,1
+348,none,6,delayed,business,1743,100 <= ... < 500,1 <= ... < 4y,1,male : single,none,2,real estate,34,none,own,2,unskilled - resident,1,no,yes,1
+349, 0 <= ... <= 200,9,critical account,education,1136,1000 <= ...,7y <= ...,4,male : single,none,3,none OR unknown,32,none,for free,2,skilled employed OR official ,2,no,yes,2
+350,none,9,existing AND duly paid,domestic appliances,1236, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,4,real estate,23,none,rent,1,skilled employed OR official ,1,yes,yes,1
+351, 0 <= ... <= 200,9,existing AND duly paid,furniture,959, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,2,car OR other,29,none,own,1,skilled employed OR official ,1,no,no,2
+352,none,18,critical account,car (used),3229,unknown OR no savings account,unemployed,2,male : single,none,4,none OR unknown,38,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+353,negative,12,none OR duly paid,radio OR tv,6199, ... < 100,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,28,none,rent,2,skilled employed OR official ,1,yes,yes,2
+354,none,10,existing AND duly paid,education,727,500 <= ... < 1000,7y <= ...,4,male : single,none,4,none OR unknown,46,none,for free,1,skilled employed OR official ,1,yes,yes,1
+355, 0 <= ... <= 200,24,existing AND duly paid,car (new),1246, ... < 100, ... < 1y,4,male : single,none,2,real estate,23,stores,own,1,unskilled - resident,1,no,yes,2
+356,none,12,critical account,radio OR tv,2331,unknown OR no savings account,7y <= ...,1,male : single,co-applicant,4,real estate,49,none,own,1,skilled employed OR official ,1,yes,yes,1
+357,none,36,delayed,radio OR tv,4463, ... < 100,1 <= ... < 4y,4,male : single,none,2,car OR other,26,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+358,none,12,existing AND duly paid,radio OR tv,776, ... < 100,1 <= ... < 4y,4,male : married,none,2,real estate,28,none,own,1,skilled employed OR official ,1,no,yes,1
+359,negative,30,existing AND duly paid,furniture,2406, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,4,real estate,23,none,rent,1,skilled employed OR official ,1,no,yes,2
+360, 0 <= ... <= 200,18,existing AND duly paid,education,1239,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,4,none OR unknown,61,none,for free,1,skilled employed OR official ,1,no,yes,1
+361,200 < ...,12,existing AND duly paid,radio OR tv,3399,unknown OR no savings account,7y <= ...,2,male : single,none,3,car OR other,37,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+362,200 < ...,12,delayed,car (new),2247, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,car OR other,36,stores,own,2,skilled employed OR official ,1,yes,yes,1
+363,none,6,existing AND duly paid,furniture,1766, ... < 100,1 <= ... < 4y,1,male : married,none,2,society savings agreement OR life insurance,21,none,rent,1,skilled employed OR official ,1,no,yes,1
+364,negative,18,existing AND duly paid,furniture,2473, ... < 100,unemployed,4,male : single,none,1,car OR other,25,none,own,1,unemployed OR unskilled - non-resident,1,no,yes,2
+365,none,12,existing AND duly paid,business,1542, ... < 100,4 <= ... < 7y,2,male : single,none,4,car OR other,36,none,own,1,skilled employed OR official ,1,yes,yes,1
+366,none,18,critical account,car (used),3850, ... < 100,4 <= ... < 7y,3,male : single,none,1,car OR other,27,none,own,2,skilled employed OR official ,1,no,yes,1
+367,negative,18,existing AND duly paid,furniture,3650, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,4,car OR other,22,none,rent,1,skilled employed OR official ,1,no,yes,1
+368,negative,36,existing AND duly paid,furniture,3446, ... < 100,7y <= ...,4,male : single,none,2,car OR other,42,none,own,1,skilled employed OR official ,2,no,yes,2
+369, 0 <= ... <= 200,18,existing AND duly paid,furniture,3001, ... < 100,4 <= ... < 7y,2,female : married OR separated OR divorced,none,4,real estate,40,none,rent,1,skilled employed OR official ,1,no,yes,1
+370,none,36,existing AND duly paid,car (new),3079,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,4,real estate,36,none,own,1,skilled employed OR official ,1,no,yes,1
+371,none,18,critical account,radio OR tv,6070, ... < 100,7y <= ...,3,male : single,none,4,car OR other,33,none,own,2,skilled employed OR official ,1,yes,yes,1
+372,none,10,critical account,furniture,2146, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,3,real estate,23,none,rent,2,skilled employed OR official ,1,no,yes,1
+373,none,60,critical account,car (new),13756,unknown OR no savings account,7y <= ...,2,male : single,none,4,none OR unknown,63,bank,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+374, 0 <= ... <= 200,60,duly paid,other,14782,100 <= ... < 500,7y <= ...,3,female : married OR separated OR divorced,none,4,none OR unknown,60,bank,for free,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+375,negative,48,duly paid,business,7685, ... < 100,4 <= ... < 7y,2,female : married OR separated OR divorced,guarantor,4,car OR other,37,none,rent,1,skilled employed OR official ,1,no,yes,2
+376,none,18,delayed,radio OR tv,2320, ... < 100,unemployed,2,male : married,none,3,real estate,34,none,own,2,skilled employed OR official ,1,no,yes,1
+377,none,7,delayed,radio OR tv,846,unknown OR no savings account,7y <= ...,3,male : single,none,4,none OR unknown,36,none,for free,1,skilled employed OR official ,1,no,yes,1
+378, 0 <= ... <= 200,36,existing AND duly paid,car (new),14318, ... < 100,7y <= ...,4,male : single,none,2,none OR unknown,57,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+379,none,6,critical account,car (new),362,100 <= ... < 500,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,car OR other,52,none,own,2,unskilled - resident,1,no,yes,1
+380,negative,20,existing AND duly paid,furniture,2212,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,4,car OR other,39,none,own,1,skilled employed OR official ,1,yes,yes,1
+381, 0 <= ... <= 200,18,existing AND duly paid,car (used),12976, ... < 100,unemployed,3,female : married OR separated OR divorced,none,4,none OR unknown,38,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+382,none,22,existing AND duly paid,car (new),1283,unknown OR no savings account,4 <= ... < 7y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,25,none,rent,1,skilled employed OR official ,1,no,yes,1
+383,200 < ...,12,existing AND duly paid,car (new),1330, ... < 100, ... < 1y,4,male : single,none,1,real estate,26,none,own,1,skilled employed OR official ,1,no,yes,1
+384,none,30,delayed,business,4272,100 <= ... < 500,1 <= ... < 4y,2,male : single,none,2,society savings agreement OR life insurance,26,none,own,2,unskilled - resident,1,no,yes,1
+385,none,18,critical account,radio OR tv,2238, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,1,car OR other,25,none,own,2,skilled employed OR official ,1,no,yes,1
+386,none,18,existing AND duly paid,radio OR tv,1126,unknown OR no savings account, ... < 1y,4,female : married OR separated OR divorced,none,2,real estate,21,none,rent,1,skilled employed OR official ,1,yes,yes,1
+387, 0 <= ... <= 200,18,critical account,furniture,7374, ... < 100,unemployed,4,male : single,none,4,society savings agreement OR life insurance,40,stores,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+388, 0 <= ... <= 200,15,critical account,business,2326,500 <= ... < 1000,1 <= ... < 4y,2,male : single,none,4,car OR other,27,bank,own,1,skilled employed OR official ,1,no,yes,1
+389,none,9,existing AND duly paid,business,1449, ... < 100,4 <= ... < 7y,3,female : married OR separated OR divorced,none,2,car OR other,27,none,own,2,skilled employed OR official ,1,no,yes,1
+390,none,18,existing AND duly paid,car (new),1820, ... < 100,1 <= ... < 4y,2,male : married,none,2,society savings agreement OR life insurance,30,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+391, 0 <= ... <= 200,12,existing AND duly paid,furniture,983,1000 <= ..., ... < 1y,1,female : married OR separated OR divorced,none,4,real estate,19,none,rent,1,unskilled - resident,1,no,yes,1
+392,negative,36,existing AND duly paid,car (new),3249, ... < 100,4 <= ... < 7y,2,male : single,none,4,none OR unknown,39,bank,for free,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+393,negative,6,critical account,radio OR tv,1957, ... < 100,4 <= ... < 7y,1,female : married OR separated OR divorced,none,4,car OR other,31,none,own,1,skilled employed OR official ,1,no,yes,1
+394,none,9,critical account,furniture,2406, ... < 100,unemployed,2,male : single,none,3,car OR other,31,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+395, 0 <= ... <= 200,39,delayed,education,11760,100 <= ... < 500,4 <= ... < 7y,2,male : single,none,3,none OR unknown,32,none,rent,1,skilled employed OR official ,1,yes,yes,1
+396,negative,12,existing AND duly paid,furniture,2578, ... < 100,unemployed,3,female : married OR separated OR divorced,none,4,none OR unknown,55,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+397,negative,36,critical account,furniture,2348, ... < 100,1 <= ... < 4y,3,male : married,none,2,society savings agreement OR life insurance,46,none,own,2,skilled employed OR official ,1,yes,yes,1
+398, 0 <= ... <= 200,12,existing AND duly paid,car (new),1223, ... < 100,7y <= ...,1,male : separated OR divorced,none,1,real estate,46,none,rent,2,skilled employed OR official ,1,no,yes,2
+399,none,24,critical account,radio OR tv,1516,1000 <= ...,1 <= ... < 4y,4,female : married OR separated OR divorced,none,1,real estate,43,none,own,2,unskilled - resident,1,no,yes,1
+400,none,18,existing AND duly paid,radio OR tv,1473, ... < 100, ... < 1y,3,male : married,none,4,real estate,39,none,own,1,skilled employed OR official ,1,yes,yes,1
+401, 0 <= ... <= 200,18,critical account,business,1887,unknown OR no savings account,1 <= ... < 4y,4,male : married,none,4,real estate,28,bank,own,2,skilled employed OR official ,1,no,yes,1
+402,none,24,delayed,business,8648, ... < 100, ... < 1y,2,male : single,none,2,car OR other,27,bank,own,2,skilled employed OR official ,1,yes,yes,2
+403,none,14,delayed,car (new),802, ... < 100,1 <= ... < 4y,4,male : single,none,2,car OR other,27,none,own,2,unskilled - resident,1,no,yes,1
+404, 0 <= ... <= 200,18,delayed,car (new),2899,unknown OR no savings account,7y <= ...,4,male : single,none,4,car OR other,43,none,own,1,skilled employed OR official ,2,no,yes,1
+405, 0 <= ... <= 200,24,existing AND duly paid,radio OR tv,2039, ... < 100, ... < 1y,1,male : married,none,1,society savings agreement OR life insurance,22,none,own,1,skilled employed OR official ,1,yes,yes,2
+406,none,24,critical account,car (used),2197,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,4,car OR other,43,none,own,2,skilled employed OR official ,2,yes,yes,1
+407,negative,15,existing AND duly paid,radio OR tv,1053, ... < 100, ... < 1y,4,male : married,none,2,real estate,27,none,own,1,skilled employed OR official ,1,no,no,1
+408,none,24,existing AND duly paid,radio OR tv,3235,500 <= ... < 1000,7y <= ...,3,male : separated OR divorced,none,2,car OR other,26,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+409,200 < ...,12,critical account,car (new),939,500 <= ... < 1000,4 <= ... < 7y,4,male : married,none,2,real estate,28,none,own,3,skilled employed OR official ,1,yes,yes,2
+410, 0 <= ... <= 200,24,existing AND duly paid,radio OR tv,1967, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,4,car OR other,20,none,own,1,skilled employed OR official ,1,yes,yes,1
+411,none,33,critical account,car (used),7253, ... < 100,4 <= ... < 7y,3,male : single,none,2,car OR other,35,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+412,none,12,critical account,business,2292, ... < 100,unemployed,4,male : single,none,2,car OR other,42,stores,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+413,none,10,existing AND duly paid,car (new),1597,500 <= ... < 1000,1 <= ... < 4y,3,male : single,none,2,none OR unknown,40,none,rent,1,unskilled - resident,2,no,no,1
+414,negative,24,existing AND duly paid,car (new),1381,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,35,none,own,1,skilled employed OR official ,1,no,yes,2
+415,none,36,critical account,car (used),5842, ... < 100,7y <= ...,2,male : single,none,2,society savings agreement OR life insurance,35,none,own,2,skilled employed OR official ,2,yes,yes,1
+416,negative,12,existing AND duly paid,car (new),2579, ... < 100, ... < 1y,4,male : single,none,1,real estate,33,none,own,1,unskilled - resident,2,no,yes,2
+417,negative,18,delayed,education,8471,unknown OR no savings account,1 <= ... < 4y,1,female : married OR separated OR divorced,none,2,car OR other,23,none,rent,2,skilled employed OR official ,1,yes,yes,1
+418,none,21,existing AND duly paid,car (new),2782,500 <= ... < 1000,4 <= ... < 7y,1,female : married OR separated OR divorced,none,2,car OR other,31,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+419, 0 <= ... <= 200,18,existing AND duly paid,car (new),1042,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,33,none,own,1,skilled employed OR official ,1,no,yes,2
+420,none,15,existing AND duly paid,car (new),3186,1000 <= ...,4 <= ... < 7y,2,female : married OR separated OR divorced,none,3,car OR other,20,none,rent,1,skilled employed OR official ,1,no,yes,1
+421, 0 <= ... <= 200,12,existing AND duly paid,car (used),2028,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,2,car OR other,30,none,own,1,skilled employed OR official ,1,no,yes,1
+422, 0 <= ... <= 200,12,critical account,car (new),958, ... < 100,4 <= ... < 7y,2,male : single,none,3,real estate,47,none,own,2,unskilled - resident,2,no,yes,1
+423,none,21,delayed,furniture,1591,100 <= ... < 500,4 <= ... < 7y,4,male : single,none,3,real estate,34,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+424, 0 <= ... <= 200,12,existing AND duly paid,furniture,2762,unknown OR no savings account,7y <= ...,1,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,25,bank,own,1,skilled employed OR official ,1,yes,yes,2
+425, 0 <= ... <= 200,18,existing AND duly paid,car (used),2779, ... < 100,1 <= ... < 4y,1,male : married,none,3,car OR other,21,none,rent,1,skilled employed OR official ,1,yes,yes,1
+426,none,28,critical account,radio OR tv,2743, ... < 100,7y <= ...,4,male : single,none,2,car OR other,29,none,own,2,skilled employed OR official ,1,no,yes,1
+427,none,18,critical account,radio OR tv,1149,1000 <= ...,1 <= ... < 4y,4,male : single,none,3,real estate,46,none,own,2,skilled employed OR official ,1,no,yes,1
+428,none,9,existing AND duly paid,furniture,1313, ... < 100,7y <= ...,1,male : single,none,4,car OR other,20,none,own,1,skilled employed OR official ,1,no,yes,1
+429,negative,18,critical account,repairs,1190, ... < 100,unemployed,2,female : married OR separated OR divorced,none,4,none OR unknown,55,none,for free,3,unemployed OR unskilled - non-resident,2,no,yes,2
+430,none,5,existing AND duly paid,business,3448, ... < 100,4 <= ... < 7y,1,male : single,none,4,real estate,74,none,own,1,unskilled - resident,1,no,yes,1
+431, 0 <= ... <= 200,24,existing AND duly paid,other,11328, ... < 100,1 <= ... < 4y,2,male : single,co-applicant,3,car OR other,29,bank,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+432,negative,6,critical account,furniture,1872, ... < 100,unemployed,4,male : single,none,4,none OR unknown,36,none,for free,3,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+433,none,24,critical account,repairs,2058, ... < 100,1 <= ... < 4y,4,male : separated OR divorced,none,2,real estate,33,none,own,2,skilled employed OR official ,1,yes,yes,1
+434,negative,9,existing AND duly paid,furniture,2136, ... < 100,1 <= ... < 4y,3,male : single,none,2,real estate,25,none,own,1,skilled employed OR official ,1,no,yes,1
+435, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,1484,unknown OR no savings account,1 <= ... < 4y,2,male : married,none,1,real estate,25,none,own,1,skilled employed OR official ,1,yes,yes,2
+436,none,6,existing AND duly paid,repairs,660,500 <= ... < 1000,4 <= ... < 7y,2,male : married,none,4,real estate,23,none,rent,1,unskilled - resident,1,no,yes,1
+437,none,24,critical account,car (new),1287,1000 <= ...,7y <= ...,4,female : married OR separated OR divorced,none,4,real estate,37,none,own,2,skilled employed OR official ,1,yes,yes,1
+438,negative,42,critical account,repairs,3394, ... < 100,unemployed,4,male : single,co-applicant,4,car OR other,65,none,own,2,unemployed OR unskilled - non-resident,1,no,yes,1
+439,200 < ...,12,duly paid,business,609, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,real estate,26,none,own,1,unemployed OR unskilled - non-resident,1,no,yes,2
+440,none,12,existing AND duly paid,car (new),1884, ... < 100,7y <= ...,4,male : single,none,4,car OR other,39,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+441,negative,12,existing AND duly paid,furniture,1620, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,co-applicant,3,society savings agreement OR life insurance,30,none,own,1,skilled employed OR official ,1,no,yes,1
+442, 0 <= ... <= 200,20,delayed,other,2629, ... < 100,1 <= ... < 4y,2,male : single,none,3,car OR other,29,bank,own,2,skilled employed OR official ,1,yes,yes,1
+443,none,12,existing AND duly paid,education,719, ... < 100,7y <= ...,4,male : single,none,4,car OR other,41,bank,own,1,unskilled - resident,2,no,yes,2
+444, 0 <= ... <= 200,48,critical account,furniture,5096, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,3,car OR other,30,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+445,none,9,critical account,education,1244,unknown OR no savings account,7y <= ...,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,41,none,rent,2,unskilled - resident,1,no,yes,1
+446,negative,36,existing AND duly paid,car (new),1842, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,car OR other,34,none,own,1,skilled employed OR official ,1,yes,yes,2
+447, 0 <= ... <= 200,7,existing AND duly paid,radio OR tv,2576, ... < 100,1 <= ... < 4y,2,male : single,guarantor,2,real estate,35,none,own,1,skilled employed OR official ,1,no,yes,1
+448,200 < ...,12,existing AND duly paid,furniture,1424,unknown OR no savings account,7y <= ...,3,female : married OR separated OR divorced,none,4,real estate,55,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+449, 0 <= ... <= 200,15,delayed,repairs,1512,1000 <= ...,1 <= ... < 4y,3,male : married,none,3,society savings agreement OR life insurance,61,stores,own,2,skilled employed OR official ,1,no,yes,2
+450,none,36,critical account,car (used),11054,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,2,car OR other,30,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+451,none,6,existing AND duly paid,radio OR tv,518, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,1,real estate,29,none,own,1,skilled employed OR official ,1,no,yes,1
+452,none,12,none OR duly paid,furniture,2759, ... < 100,7y <= ...,2,male : single,none,4,society savings agreement OR life insurance,34,none,own,2,skilled employed OR official ,1,no,yes,1
+453,none,24,existing AND duly paid,car (used),2670, ... < 100,7y <= ...,4,male : single,none,4,car OR other,35,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+454,negative,24,existing AND duly paid,car (new),4817, ... < 100,4 <= ... < 7y,2,male : single,co-applicant,3,society savings agreement OR life insurance,31,none,own,1,skilled employed OR official ,1,yes,yes,2
+455,none,24,existing AND duly paid,car (used),2679, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,none OR unknown,29,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+456,negative,11,critical account,car (new),3905, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,36,none,rent,2,skilled employed OR official ,2,no,yes,1
+457,negative,12,existing AND duly paid,car (used),3386, ... < 100,7y <= ...,3,male : single,none,4,none OR unknown,35,none,for free,1,skilled employed OR official ,1,yes,yes,2
+458,negative,6,existing AND duly paid,domestic appliances,343, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,real estate,27,none,own,1,skilled employed OR official ,1,no,yes,1
+459,none,18,existing AND duly paid,radio OR tv,4594, ... < 100, ... < 1y,3,male : single,none,2,car OR other,32,none,own,1,skilled employed OR official ,1,yes,yes,1
+460,negative,36,existing AND duly paid,furniture,3620, ... < 100,1 <= ... < 4y,1,male : single,guarantor,2,society savings agreement OR life insurance,37,none,own,1,skilled employed OR official ,2,no,yes,1
+461,negative,15,existing AND duly paid,car (new),1721, ... < 100, ... < 1y,2,male : single,none,3,real estate,36,none,own,1,skilled employed OR official ,1,no,yes,1
+462, 0 <= ... <= 200,12,existing AND duly paid,furniture,3017, ... < 100, ... < 1y,3,female : married OR separated OR divorced,none,1,real estate,34,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+463, 0 <= ... <= 200,12,existing AND duly paid,retraining,754,unknown OR no savings account,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,38,none,own,2,skilled employed OR official ,1,no,yes,1
+464,none,18,existing AND duly paid,business,1950, ... < 100,4 <= ... < 7y,4,male : single,none,1,car OR other,34,stores,own,2,skilled employed OR official ,1,yes,yes,1
+465,negative,24,existing AND duly paid,car (used),2924, ... < 100,1 <= ... < 4y,3,male : single,guarantor,4,none OR unknown,63,bank,own,1,skilled employed OR official ,2,yes,yes,1
+466,negative,24,delayed,radio OR tv,1659, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,2,car OR other,29,none,rent,1,unskilled - resident,1,yes,yes,2
+467,none,48,delayed,radio OR tv,7238,unknown OR no savings account,7y <= ...,3,male : single,none,3,car OR other,32,bank,own,2,skilled employed OR official ,2,no,yes,1
+468,none,33,delayed,business,2764, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,car OR other,26,none,own,2,skilled employed OR official ,1,yes,yes,1
+469,none,24,delayed,car (used),4679, ... < 100,4 <= ... < 7y,3,male : single,none,3,car OR other,35,none,own,2,unskilled - resident,1,yes,yes,1
+470, 0 <= ... <= 200,24,existing AND duly paid,radio OR tv,3092,100 <= ... < 500, ... < 1y,3,male : married,none,2,car OR other,22,none,rent,1,skilled employed OR official ,1,yes,yes,2
+471,negative,6,existing AND duly paid,education,448, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,23,none,own,1,skilled employed OR official ,1,no,yes,2
+472,negative,9,existing AND duly paid,car (new),654, ... < 100,1 <= ... < 4y,4,male : single,none,3,car OR other,28,none,own,1,unskilled - resident,1,no,yes,2
+473,none,6,existing AND duly paid,retraining,1238,unknown OR no savings account,unemployed,4,male : single,none,4,society savings agreement OR life insurance,36,none,own,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+474, 0 <= ... <= 200,18,critical account,radio OR tv,1245, ... < 100,1 <= ... < 4y,4,male : married,none,2,car OR other,33,none,own,1,skilled employed OR official ,1,no,yes,2
+475,negative,18,none OR duly paid,furniture,3114, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,26,none,rent,1,skilled employed OR official ,1,no,yes,2
+476,none,39,existing AND duly paid,car (used),2569,500 <= ... < 1000,1 <= ... < 4y,4,male : single,none,4,car OR other,24,none,own,1,skilled employed OR official ,1,no,yes,1
+477,200 < ...,24,existing AND duly paid,radio OR tv,5152, ... < 100,4 <= ... < 7y,4,male : single,none,2,car OR other,25,bank,own,1,skilled employed OR official ,1,no,yes,1
+478, 0 <= ... <= 200,12,existing AND duly paid,business,1037,100 <= ... < 500,4 <= ... < 7y,3,male : single,none,4,real estate,39,none,own,1,unskilled - resident,1,no,yes,1
+479,negative,15,critical account,furniture,1478, ... < 100,7y <= ...,4,male : single,none,4,car OR other,44,none,own,2,skilled employed OR official ,2,yes,yes,1
+480, 0 <= ... <= 200,12,critical account,radio OR tv,3573, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,1,real estate,23,none,own,1,unskilled - resident,1,no,yes,1
+481, 0 <= ... <= 200,24,existing AND duly paid,car (new),1201, ... < 100, ... < 1y,4,male : single,none,1,society savings agreement OR life insurance,26,none,own,1,skilled employed OR official ,1,no,yes,1
+482,negative,30,existing AND duly paid,furniture,3622,1000 <= ...,7y <= ...,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,57,none,rent,2,skilled employed OR official ,1,yes,yes,1
+483,none,15,delayed,furniture,960,1000 <= ...,4 <= ... < 7y,3,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,30,none,own,2,skilled employed OR official ,1,no,yes,1
+484,none,12,critical account,car (new),1163,500 <= ... < 1000,1 <= ... < 4y,4,male : single,none,4,real estate,44,none,own,1,skilled employed OR official ,1,yes,yes,1
+485, 0 <= ... <= 200,6,delayed,car (new),1209, ... < 100,unemployed,4,male : single,none,4,society savings agreement OR life insurance,47,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+486,none,12,existing AND duly paid,radio OR tv,3077, ... < 100,1 <= ... < 4y,2,male : single,none,4,car OR other,52,none,own,1,skilled employed OR official ,1,yes,yes,1
+487,none,24,existing AND duly paid,car (new),3757, ... < 100,7y <= ...,4,female : married OR separated OR divorced,co-applicant,4,none OR unknown,62,none,for free,1,skilled employed OR official ,1,yes,yes,1
+488,none,10,existing AND duly paid,car (new),1418,100 <= ... < 500,1 <= ... < 4y,3,male : single,none,2,real estate,35,none,rent,1,unskilled - resident,1,no,no,1
+489,none,6,existing AND duly paid,car (new),3518, ... < 100,1 <= ... < 4y,2,male : single,guarantor,3,society savings agreement OR life insurance,26,none,rent,1,skilled employed OR official ,1,no,yes,1
+490,none,12,critical account,radio OR tv,1934, ... < 100,7y <= ...,2,male : single,none,2,none OR unknown,26,none,own,2,skilled employed OR official ,1,no,yes,1
+491, 0 <= ... <= 200,27,none OR duly paid,business,8318, ... < 100,7y <= ...,2,female : married OR separated OR divorced,none,4,none OR unknown,42,none,for free,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+492,none,6,critical account,radio OR tv,1237,100 <= ... < 500,1 <= ... < 4y,1,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,27,none,own,2,skilled employed OR official ,1,no,yes,1
+493, 0 <= ... <= 200,6,existing AND duly paid,radio OR tv,368,unknown OR no savings account,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,38,none,own,1,skilled employed OR official ,1,no,yes,1
+494,negative,12,critical account,car (new),2122, ... < 100,1 <= ... < 4y,3,male : single,none,2,real estate,39,none,rent,2,unskilled - resident,2,no,no,1
+495,negative,24,existing AND duly paid,furniture,2996,unknown OR no savings account,1 <= ... < 4y,2,male : married,none,4,car OR other,20,none,own,1,skilled employed OR official ,1,no,yes,2
+496, 0 <= ... <= 200,36,existing AND duly paid,furniture,9034,100 <= ... < 500, ... < 1y,4,male : single,co-applicant,1,none OR unknown,29,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+497,none,24,critical account,furniture,1585, ... < 100,4 <= ... < 7y,4,male : single,none,3,society savings agreement OR life insurance,40,none,own,2,skilled employed OR official ,1,no,yes,1
+498, 0 <= ... <= 200,18,existing AND duly paid,radio OR tv,1301, ... < 100,7y <= ...,4,male : married,guarantor,2,real estate,32,none,own,1,unskilled - resident,1,no,yes,1
+499,200 < ...,6,critical account,car (new),1323,100 <= ... < 500,7y <= ...,2,male : separated OR divorced,none,4,car OR other,28,none,own,2,skilled employed OR official ,2,yes,yes,1
+500,negative,24,existing AND duly paid,car (new),3123, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,27,none,own,1,skilled employed OR official ,1,no,yes,2
+501,negative,36,existing AND duly paid,car (used),5493, ... < 100,7y <= ...,2,male : single,none,4,none OR unknown,42,none,for free,1,skilled employed OR official ,2,no,yes,1
+502,200 < ...,9,existing AND duly paid,radio OR tv,1126,100 <= ... < 500,7y <= ...,2,male : separated OR divorced,none,4,real estate,49,none,own,1,skilled employed OR official ,1,no,yes,1
+503, 0 <= ... <= 200,24,critical account,radio OR tv,1216,100 <= ... < 500, ... < 1y,4,male : single,none,4,none OR unknown,38,bank,own,2,skilled employed OR official ,2,no,yes,2
+504,negative,24,existing AND duly paid,car (new),1207, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,24,none,rent,1,skilled employed OR official ,1,no,yes,2
+505,none,10,existing AND duly paid,car (new),1309,unknown OR no savings account,1 <= ... < 4y,4,male : single,guarantor,4,society savings agreement OR life insurance,27,none,own,1,unskilled - resident,1,no,yes,2
+506,200 < ...,15,critical account,car (used),2360,500 <= ... < 1000,1 <= ... < 4y,2,male : single,none,2,car OR other,36,none,own,1,skilled employed OR official ,1,yes,yes,1
+507, 0 <= ... <= 200,15,duly paid,car (new),6850,100 <= ... < 500,unemployed,1,male : single,none,2,society savings agreement OR life insurance,34,none,own,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,2
+508,none,24,existing AND duly paid,radio OR tv,1413, ... < 100,1 <= ... < 4y,4,male : married,none,2,society savings agreement OR life insurance,28,none,own,1,skilled employed OR official ,1,no,yes,1
+509,none,39,existing AND duly paid,car (used),8588,100 <= ... < 500,7y <= ...,4,male : single,none,2,car OR other,45,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+510,negative,12,existing AND duly paid,car (new),759, ... < 100,4 <= ... < 7y,4,male : single,none,2,real estate,26,none,own,1,skilled employed OR official ,1,no,yes,2
+511,none,36,existing AND duly paid,car (used),4686, ... < 100,1 <= ... < 4y,2,male : single,none,2,none OR unknown,32,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+512,200 < ...,15,existing AND duly paid,business,2687, ... < 100,4 <= ... < 7y,2,male : single,none,4,society savings agreement OR life insurance,26,none,rent,1,skilled employed OR official ,1,yes,yes,1
+513, 0 <= ... <= 200,12,delayed,radio OR tv,585, ... < 100,1 <= ... < 4y,4,male : married,co-applicant,4,real estate,20,none,rent,2,skilled employed OR official ,1,no,yes,1
+514,none,24,existing AND duly paid,car (new),2255,unknown OR no savings account, ... < 1y,4,male : single,none,1,society savings agreement OR life insurance,54,none,own,1,skilled employed OR official ,1,no,yes,1
+515,negative,6,critical account,car (new),609, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,3,society savings agreement OR life insurance,37,none,own,2,skilled employed OR official ,1,no,no,1
+516,negative,6,critical account,car (new),1361, ... < 100, ... < 1y,2,male : single,none,4,real estate,40,none,own,1,unskilled - resident,2,no,no,1
+517,none,36,critical account,furniture,7127, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,23,none,rent,2,skilled employed OR official ,1,yes,yes,2
+518,negative,6,existing AND duly paid,car (new),1203,100 <= ... < 500,7y <= ...,3,male : single,none,2,society savings agreement OR life insurance,43,none,own,1,skilled employed OR official ,1,yes,yes,1
+519,none,6,critical account,radio OR tv,700,unknown OR no savings account,7y <= ...,4,male : single,none,4,none OR unknown,36,none,for free,2,skilled employed OR official ,1,no,yes,1
+520,none,24,critical account,repairs,5507, ... < 100,7y <= ...,3,male : single,none,4,none OR unknown,44,none,for free,2,skilled employed OR official ,1,no,yes,1
+521,negative,18,existing AND duly paid,radio OR tv,3190, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,real estate,24,none,own,1,skilled employed OR official ,1,no,yes,2
+522,negative,48,none OR duly paid,furniture,7119, ... < 100,1 <= ... < 4y,3,male : single,none,4,none OR unknown,53,none,for free,2,skilled employed OR official ,2,no,yes,2
+523,none,24,existing AND duly paid,car (used),3488,100 <= ... < 500,4 <= ... < 7y,3,female : married OR separated OR divorced,none,4,car OR other,23,none,own,1,skilled employed OR official ,1,no,yes,1
+524, 0 <= ... <= 200,18,existing AND duly paid,radio OR tv,1113, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,guarantor,4,real estate,26,none,own,1,unskilled - resident,2,no,yes,1
+525, 0 <= ... <= 200,26,existing AND duly paid,car (used),7966, ... < 100, ... < 1y,2,male : single,none,3,car OR other,30,none,own,2,skilled employed OR official ,1,no,yes,1
+526,none,15,critical account,education,1532,100 <= ... < 500,1 <= ... < 4y,4,female : married OR separated OR divorced,none,3,car OR other,31,none,own,1,skilled employed OR official ,1,no,yes,1
+527,none,4,critical account,radio OR tv,1503, ... < 100,4 <= ... < 7y,2,male : single,none,1,real estate,42,none,own,2,unskilled - resident,2,no,yes,1
+528,negative,36,existing AND duly paid,radio OR tv,2302, ... < 100,1 <= ... < 4y,4,male : separated OR divorced,none,4,car OR other,31,none,rent,1,skilled employed OR official ,1,no,yes,2
+529,negative,6,existing AND duly paid,car (new),662, ... < 100, ... < 1y,3,male : single,none,4,real estate,41,none,own,1,unskilled - resident,2,yes,yes,1
+530, 0 <= ... <= 200,36,existing AND duly paid,education,2273, ... < 100,4 <= ... < 7y,3,male : single,none,1,car OR other,32,none,own,2,skilled employed OR official ,2,no,yes,1
+531, 0 <= ... <= 200,15,existing AND duly paid,car (new),2631,100 <= ... < 500,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,car OR other,28,none,rent,2,skilled employed OR official ,1,yes,yes,2
+532,none,12,delayed,car (used),1503, ... < 100,1 <= ... < 4y,4,male : married,none,4,real estate,41,none,rent,1,skilled employed OR official ,1,no,yes,1
+533,none,24,existing AND duly paid,radio OR tv,1311,100 <= ... < 500,4 <= ... < 7y,4,male : married,none,3,society savings agreement OR life insurance,26,none,own,1,skilled employed OR official ,1,yes,yes,1
+534,none,24,existing AND duly paid,radio OR tv,3105,unknown OR no savings account, ... < 1y,4,male : single,none,2,car OR other,25,none,own,2,skilled employed OR official ,1,no,yes,1
+535,200 < ...,21,critical account,education,2319, ... < 100, ... < 1y,2,male : separated OR divorced,none,1,car OR other,33,none,rent,1,skilled employed OR official ,1,no,yes,2
+536,negative,6,existing AND duly paid,car (new),1374,unknown OR no savings account,unemployed,4,female : married OR separated OR divorced,none,3,society savings agreement OR life insurance,75,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+537, 0 <= ... <= 200,18,critical account,furniture,3612, ... < 100,7y <= ...,3,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,37,none,own,1,skilled employed OR official ,1,yes,yes,1
+538,negative,48,existing AND duly paid,car (new),7763, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,42,bank,for free,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,2
+539,200 < ...,18,existing AND duly paid,furniture,3049, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,45,stores,own,1,unskilled - resident,1,no,yes,1
+540, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,1534, ... < 100, ... < 1y,1,male : married,none,1,real estate,23,none,rent,1,skilled employed OR official ,1,no,yes,2
+541,none,24,delayed,car (new),2032, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,60,none,for free,2,skilled employed OR official ,1,yes,yes,1
+542,negative,30,existing AND duly paid,furniture,6350,unknown OR no savings account,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,31,none,own,1,skilled employed OR official ,1,no,yes,2
+543,200 < ...,18,existing AND duly paid,furniture,2864, ... < 100,1 <= ... < 4y,2,male : single,none,1,real estate,34,none,own,1,unskilled - resident,2,no,yes,2
+544,none,12,critical account,car (new),1255, ... < 100,7y <= ...,4,male : single,none,4,real estate,61,none,own,2,unskilled - resident,1,no,yes,1
+545,negative,24,delayed,car (new),1333, ... < 100,unemployed,4,male : single,none,2,real estate,43,none,for free,2,skilled employed OR official ,2,no,yes,2
+546,none,24,critical account,car (new),2022, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,car OR other,37,none,own,1,skilled employed OR official ,1,yes,yes,1
+547,none,24,existing AND duly paid,radio OR tv,1552, ... < 100,4 <= ... < 7y,3,male : single,none,1,car OR other,32,bank,own,1,skilled employed OR official ,2,no,yes,1
+548,negative,12,duly paid,radio OR tv,626, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,real estate,24,bank,own,1,unskilled - resident,1,no,yes,2
+549,none,48,critical account,car (used),8858,unknown OR no savings account,4 <= ... < 7y,2,male : single,none,1,none OR unknown,35,none,for free,2,skilled employed OR official ,1,yes,yes,1
+550,none,12,critical account,repairs,996,unknown OR no savings account,4 <= ... < 7y,4,female : married OR separated OR divorced,none,4,real estate,23,none,own,2,skilled employed OR official ,1,no,yes,1
+551,none,6,duly paid,radio OR tv,1750,500 <= ... < 1000,7y <= ...,2,male : single,none,4,society savings agreement OR life insurance,45,bank,own,1,unskilled - resident,2,no,yes,1
+552,negative,48,existing AND duly paid,radio OR tv,6999, ... < 100,4 <= ... < 7y,1,male : married,guarantor,1,real estate,34,none,own,2,skilled employed OR official ,1,yes,yes,2
+553, 0 <= ... <= 200,12,critical account,car (new),1995,100 <= ... < 500, ... < 1y,4,male : single,none,1,car OR other,27,none,own,1,skilled employed OR official ,1,no,yes,1
+554, 0 <= ... <= 200,9,existing AND duly paid,education,1199, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,67,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+555, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,1331, ... < 100, ... < 1y,2,male : single,none,1,car OR other,22,stores,own,1,skilled employed OR official ,1,no,yes,2
+556, 0 <= ... <= 200,18,none OR duly paid,car (new),2278,100 <= ... < 500, ... < 1y,3,female : married OR separated OR divorced,none,3,car OR other,28,none,own,2,skilled employed OR official ,1,no,yes,2
+557,none,21,none OR duly paid,car (new),5003,unknown OR no savings account,1 <= ... < 4y,1,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,29,bank,own,2,skilled employed OR official ,1,yes,yes,2
+558,negative,24,duly paid,furniture,3552, ... < 100,4 <= ... < 7y,3,male : single,none,4,car OR other,27,bank,own,1,skilled employed OR official ,1,no,yes,2
+559, 0 <= ... <= 200,18,critical account,furniture,1928, ... < 100, ... < 1y,2,male : single,none,2,real estate,31,none,own,2,unskilled - resident,1,no,yes,2
+560,negative,24,existing AND duly paid,car (used),2964,unknown OR no savings account,7y <= ...,4,male : single,none,4,none OR unknown,49,bank,for free,1,skilled employed OR official ,2,yes,yes,1
+561,negative,24,duly paid,radio OR tv,1546, ... < 100,4 <= ... < 7y,4,male : single,guarantor,4,car OR other,24,bank,rent,1,unskilled - resident,1,no,yes,2
+562,200 < ...,6,delayed,radio OR tv,683, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,29,bank,own,1,skilled employed OR official ,1,no,yes,1
+563, 0 <= ... <= 200,36,existing AND duly paid,car (new),12389,unknown OR no savings account,1 <= ... < 4y,1,male : single,none,4,none OR unknown,37,none,for free,1,skilled employed OR official ,1,yes,yes,2
+564, 0 <= ... <= 200,24,delayed,business,4712,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,37,bank,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+565, 0 <= ... <= 200,24,delayed,radio OR tv,1553,100 <= ... < 500,4 <= ... < 7y,3,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,23,none,rent,2,skilled employed OR official ,1,yes,yes,1
+566,negative,12,existing AND duly paid,car (new),1372, ... < 100,4 <= ... < 7y,2,male : separated OR divorced,none,3,car OR other,36,none,own,1,skilled employed OR official ,1,no,yes,2
+567,none,24,critical account,radio OR tv,2578,1000 <= ...,7y <= ...,2,male : single,none,2,car OR other,34,none,own,1,skilled employed OR official ,1,no,yes,1
+568, 0 <= ... <= 200,48,existing AND duly paid,radio OR tv,3979,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,1,car OR other,41,none,own,2,skilled employed OR official ,2,yes,yes,1
+569,negative,48,existing AND duly paid,radio OR tv,6758, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,car OR other,31,none,own,1,skilled employed OR official ,1,yes,yes,2
+570,negative,24,existing AND duly paid,furniture,3234, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,real estate,23,none,rent,1,unskilled - resident,1,yes,yes,2
+571,none,30,critical account,radio OR tv,5954, ... < 100,4 <= ... < 7y,3,male : single,co-applicant,2,car OR other,38,none,own,1,skilled employed OR official ,1,no,yes,1
+572,none,24,existing AND duly paid,car (used),5433,unknown OR no savings account,unemployed,2,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,26,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+573,negative,15,existing AND duly paid,business,806, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,22,none,own,1,unskilled - resident,1,no,yes,1
+574, 0 <= ... <= 200,9,existing AND duly paid,radio OR tv,1082, ... < 100,7y <= ...,4,male : single,none,4,car OR other,27,none,own,2,unskilled - resident,1,no,yes,1
+575,none,15,critical account,furniture,2788, ... < 100,4 <= ... < 7y,2,female : married OR separated OR divorced,co-applicant,3,car OR other,24,bank,own,2,skilled employed OR official ,1,no,yes,1
+576, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,2930, ... < 100,4 <= ... < 7y,2,female : married OR separated OR divorced,none,1,real estate,27,none,own,1,skilled employed OR official ,1,no,yes,1
+577,none,24,critical account,education,1927,unknown OR no savings account,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,car OR other,33,none,own,2,skilled employed OR official ,1,yes,yes,1
+578, 0 <= ... <= 200,36,critical account,car (new),2820, ... < 100, ... < 1y,4,male : separated OR divorced,none,4,car OR other,27,none,own,2,skilled employed OR official ,1,no,yes,2
+579,none,24,existing AND duly paid,retraining,937, ... < 100, ... < 1y,4,male : married,none,3,car OR other,27,none,own,2,unskilled - resident,1,no,yes,1
+580, 0 <= ... <= 200,18,critical account,car (new),1056, ... < 100,7y <= ...,3,male : single,guarantor,3,real estate,30,bank,own,2,skilled employed OR official ,1,no,yes,2
+581, 0 <= ... <= 200,12,critical account,car (new),3124, ... < 100, ... < 1y,1,male : single,none,3,real estate,49,bank,own,2,unskilled - resident,2,no,yes,1
+582,none,9,existing AND duly paid,furniture,1388, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,real estate,26,none,rent,1,skilled employed OR official ,1,no,yes,1
+583, 0 <= ... <= 200,36,existing AND duly paid,repairs,2384, ... < 100, ... < 1y,4,male : single,none,1,none OR unknown,33,none,rent,1,unskilled - resident,1,no,yes,2
+584,none,12,existing AND duly paid,car (new),2133,unknown OR no savings account,7y <= ...,4,female : married OR separated OR divorced,none,4,none OR unknown,52,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+585,negative,18,existing AND duly paid,furniture,2039, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,4,real estate,20,bank,rent,1,skilled employed OR official ,1,no,yes,2
+586,negative,9,critical account,car (new),2799, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,36,none,rent,2,skilled employed OR official ,2,no,yes,1
+587,negative,12,existing AND duly paid,furniture,1289, ... < 100,1 <= ... < 4y,4,male : single,guarantor,1,society savings agreement OR life insurance,21,none,own,1,unskilled - resident,1,no,yes,1
+588,negative,18,existing AND duly paid,domestic appliances,1217, ... < 100,1 <= ... < 4y,4,male : married,none,3,real estate,47,none,own,1,unskilled - resident,1,yes,yes,2
+589,negative,12,critical account,furniture,2246, ... < 100,7y <= ...,3,male : single,none,3,society savings agreement OR life insurance,60,none,own,2,skilled employed OR official ,1,no,yes,2
+590,negative,12,critical account,radio OR tv,385, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,3,real estate,58,none,own,4,unskilled - resident,1,yes,yes,1
+591, 0 <= ... <= 200,24,delayed,car (new),1965,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,car OR other,42,none,rent,2,skilled employed OR official ,1,yes,yes,1
+592,none,21,existing AND duly paid,business,1572,1000 <= ...,7y <= ...,4,female : married OR separated OR divorced,none,4,real estate,36,bank,own,1,unskilled - resident,1,no,yes,1
+593, 0 <= ... <= 200,24,existing AND duly paid,car (new),2718, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,20,none,rent,1,unskilled - resident,1,yes,yes,2
+594,negative,24,duly paid,other,1358,unknown OR no savings account,7y <= ...,4,male : single,none,3,car OR other,40,stores,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+595, 0 <= ... <= 200,6,duly paid,car (new),931,100 <= ... < 500, ... < 1y,1,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,32,stores,own,1,unskilled - resident,1,no,yes,2
+596,negative,24,existing AND duly paid,car (new),1442, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,4,car OR other,23,none,rent,2,skilled employed OR official ,1,no,yes,2
+597, 0 <= ... <= 200,24,none OR duly paid,business,4241, ... < 100,1 <= ... < 4y,1,male : single,none,4,real estate,36,none,own,3,unskilled - resident,1,yes,yes,2
+598,none,18,critical account,car (new),2775, ... < 100,4 <= ... < 7y,2,male : single,none,2,society savings agreement OR life insurance,31,bank,own,2,skilled employed OR official ,1,no,yes,2
+599,none,24,delayed,business,3863, ... < 100,1 <= ... < 4y,1,male : single,none,2,none OR unknown,32,none,for free,1,skilled employed OR official ,1,no,yes,1
+600, 0 <= ... <= 200,7,existing AND duly paid,radio OR tv,2329, ... < 100, ... < 1y,1,female : married OR separated OR divorced,guarantor,1,real estate,45,none,own,1,skilled employed OR official ,1,no,yes,1
+601, 0 <= ... <= 200,9,existing AND duly paid,furniture,918, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,30,none,own,1,skilled employed OR official ,1,no,yes,2
+602, 0 <= ... <= 200,24,duly paid,education,1837, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,4,none OR unknown,34,bank,for free,1,unskilled - resident,1,no,yes,2
+603,none,36,existing AND duly paid,furniture,3349, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,car OR other,28,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+604,200 < ...,10,existing AND duly paid,furniture,1275, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,23,none,own,1,skilled employed OR official ,1,no,yes,1
+605,negative,24,duly paid,furniture,2828,500 <= ... < 1000,1 <= ... < 4y,4,male : single,none,4,real estate,22,stores,own,1,skilled employed OR official ,1,yes,yes,1
+606,none,24,critical account,business,4526, ... < 100,1 <= ... < 4y,3,male : single,none,2,real estate,74,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+607, 0 <= ... <= 200,36,existing AND duly paid,radio OR tv,2671,100 <= ... < 500,1 <= ... < 4y,4,female : married OR separated OR divorced,co-applicant,4,none OR unknown,50,none,for free,1,skilled employed OR official ,1,no,yes,2
+608,none,18,existing AND duly paid,radio OR tv,2051, ... < 100, ... < 1y,4,male : single,none,1,real estate,33,none,own,1,skilled employed OR official ,1,no,yes,1
+609,none,15,existing AND duly paid,car (used),1300,unknown OR no savings account,7y <= ...,4,male : single,none,4,none OR unknown,45,bank,for free,1,skilled employed OR official ,2,no,yes,1
+610,negative,12,existing AND duly paid,domestic appliances,741,100 <= ... < 500,unemployed,4,female : married OR separated OR divorced,none,3,society savings agreement OR life insurance,22,none,own,1,skilled employed OR official ,1,no,yes,2
+611,200 < ...,10,existing AND duly paid,car (new),1240,100 <= ... < 500,7y <= ...,1,female : married OR separated OR divorced,none,4,none OR unknown,48,none,for free,1,unskilled - resident,2,no,yes,2
+612,negative,21,existing AND duly paid,radio OR tv,3357,1000 <= ..., ... < 1y,4,female : married OR separated OR divorced,none,2,car OR other,29,bank,own,1,skilled employed OR official ,1,no,yes,1
+613,negative,24,duly paid,car (used),3632, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,guarantor,4,car OR other,22,bank,rent,1,skilled employed OR official ,1,no,no,1
+614,none,18,delayed,furniture,1808, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,1,real estate,22,none,own,1,skilled employed OR official ,1,no,yes,2
+615, 0 <= ... <= 200,48,none OR duly paid,business,12204,unknown OR no savings account,1 <= ... < 4y,2,male : single,none,2,car OR other,48,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+616, 0 <= ... <= 200,60,delayed,radio OR tv,9157,unknown OR no savings account,1 <= ... < 4y,2,male : single,none,2,none OR unknown,27,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+617,negative,6,critical account,car (new),3676, ... < 100,1 <= ... < 4y,1,male : single,none,3,real estate,37,none,rent,3,skilled employed OR official ,2,no,yes,1
+618, 0 <= ... <= 200,30,existing AND duly paid,furniture,3441,100 <= ... < 500,1 <= ... < 4y,2,female : married OR separated OR divorced,co-applicant,4,car OR other,21,none,rent,1,skilled employed OR official ,1,no,yes,2
+619,none,12,existing AND duly paid,car (new),640, ... < 100,1 <= ... < 4y,4,male : separated OR divorced,none,2,real estate,49,none,own,1,unskilled - resident,1,no,yes,1
+620, 0 <= ... <= 200,21,critical account,business,3652, ... < 100,4 <= ... < 7y,2,male : single,none,3,society savings agreement OR life insurance,27,none,own,2,skilled employed OR official ,1,no,yes,1
+621,none,18,critical account,car (new),1530, ... < 100,1 <= ... < 4y,3,male : single,none,2,society savings agreement OR life insurance,32,bank,own,2,skilled employed OR official ,1,no,yes,2
+622,none,48,existing AND duly paid,business,3914,unknown OR no savings account,1 <= ... < 4y,4,male : separated OR divorced,none,2,real estate,38,bank,own,1,skilled employed OR official ,1,no,yes,2
+623,negative,12,existing AND duly paid,furniture,1858, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,car OR other,22,none,rent,1,skilled employed OR official ,1,no,yes,1
+624,negative,18,existing AND duly paid,radio OR tv,2600, ... < 100,1 <= ... < 4y,4,male : single,none,4,none OR unknown,65,none,for free,2,skilled employed OR official ,1,no,yes,2
+625,none,15,existing AND duly paid,radio OR tv,1979,unknown OR no savings account,7y <= ...,4,male : single,none,2,car OR other,35,none,own,1,skilled employed OR official ,1,no,yes,1
+626,200 < ...,6,existing AND duly paid,furniture,2116, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,41,none,own,1,skilled employed OR official ,1,yes,yes,1
+627, 0 <= ... <= 200,9,duly paid,car (new),1437,100 <= ... < 500,4 <= ... < 7y,2,male : single,none,3,none OR unknown,29,none,own,1,skilled employed OR official ,1,no,yes,2
+628,none,42,critical account,furniture,4042,500 <= ... < 1000,1 <= ... < 4y,4,male : single,none,4,real estate,36,none,own,2,skilled employed OR official ,1,yes,yes,1
+629,none,9,existing AND duly paid,education,3832,unknown OR no savings account,7y <= ...,1,male : single,none,4,real estate,64,none,own,1,unskilled - resident,1,no,yes,1
+630,negative,24,existing AND duly paid,radio OR tv,3660, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,car OR other,28,none,own,1,skilled employed OR official ,1,no,yes,1
+631,negative,18,duly paid,furniture,1553, ... < 100,1 <= ... < 4y,4,male : single,none,3,car OR other,44,bank,own,1,skilled employed OR official ,1,no,yes,2
+632, 0 <= ... <= 200,15,existing AND duly paid,radio OR tv,1444,unknown OR no savings account, ... < 1y,4,male : single,none,1,society savings agreement OR life insurance,23,none,own,1,skilled employed OR official ,1,no,yes,1
+633,none,9,existing AND duly paid,furniture,1980, ... < 100, ... < 1y,2,female : married OR separated OR divorced,co-applicant,2,car OR other,19,none,rent,2,skilled employed OR official ,1,no,yes,2
+634, 0 <= ... <= 200,24,existing AND duly paid,car (new),1355, ... < 100, ... < 1y,3,female : married OR separated OR divorced,none,4,car OR other,25,none,own,1,unskilled - resident,1,yes,yes,2
+635,none,12,existing AND duly paid,education,1393, ... < 100,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,47,bank,own,3,skilled employed OR official ,2,yes,yes,1
+636,none,24,existing AND duly paid,radio OR tv,1376,500 <= ... < 1000,4 <= ... < 7y,4,female : married OR separated OR divorced,none,1,car OR other,28,none,own,1,skilled employed OR official ,1,no,yes,1
+637,none,60,delayed,radio OR tv,15653, ... < 100,4 <= ... < 7y,2,male : single,none,4,car OR other,21,none,own,2,skilled employed OR official ,1,yes,yes,1
+638,none,12,existing AND duly paid,radio OR tv,1493, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,3,car OR other,34,none,own,1,skilled employed OR official ,2,no,yes,1
+639,negative,42,delayed,radio OR tv,4370, ... < 100,4 <= ... < 7y,3,male : single,none,2,society savings agreement OR life insurance,26,bank,own,2,skilled employed OR official ,2,yes,yes,2
+640,negative,18,existing AND duly paid,education,750, ... < 100,unemployed,4,female : married OR separated OR divorced,none,1,real estate,27,none,own,1,unemployed OR unskilled - non-resident,1,no,yes,2
+641, 0 <= ... <= 200,15,existing AND duly paid,repairs,1308, ... < 100,7y <= ...,4,male : single,none,4,car OR other,38,none,own,2,unskilled - resident,1,no,yes,1
+642,none,15,existing AND duly paid,education,4623,100 <= ... < 500,1 <= ... < 4y,3,male : single,none,2,society savings agreement OR life insurance,40,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+643,none,24,critical account,radio OR tv,1851, ... < 100,4 <= ... < 7y,4,male : married,guarantor,2,car OR other,33,none,own,2,skilled employed OR official ,1,yes,yes,1
+644,negative,18,critical account,radio OR tv,1880, ... < 100,4 <= ... < 7y,4,male : married,none,1,society savings agreement OR life insurance,32,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+645,none,36,delayed,business,7980,unknown OR no savings account, ... < 1y,4,male : single,none,4,car OR other,27,none,rent,2,skilled employed OR official ,1,yes,yes,2
+646,negative,30,none OR duly paid,furniture,4583, ... < 100,1 <= ... < 4y,2,male : separated OR divorced,guarantor,2,real estate,32,none,own,2,skilled employed OR official ,1,no,yes,1
+647,none,12,existing AND duly paid,car (new),1386,500 <= ... < 1000,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,26,none,own,1,skilled employed OR official ,1,no,yes,2
+648,200 < ...,24,existing AND duly paid,car (new),947, ... < 100,4 <= ... < 7y,4,male : single,none,3,none OR unknown,38,bank,for free,1,skilled employed OR official ,2,no,yes,2
+649,negative,12,existing AND duly paid,education,684, ... < 100,1 <= ... < 4y,4,male : single,none,4,car OR other,40,none,rent,1,unskilled - resident,2,no,yes,2
+650,negative,48,existing AND duly paid,education,7476, ... < 100,4 <= ... < 7y,4,male : single,none,1,none OR unknown,50,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+651, 0 <= ... <= 200,12,existing AND duly paid,furniture,1922, ... < 100,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,37,none,own,1,unskilled - resident,1,no,yes,2
+652,negative,24,existing AND duly paid,car (new),2303, ... < 100,7y <= ...,4,male : single,co-applicant,1,real estate,45,none,own,1,skilled employed OR official ,1,no,yes,2
+653, 0 <= ... <= 200,36,delayed,car (new),8086,100 <= ... < 500,7y <= ...,2,male : single,none,4,car OR other,42,none,own,4,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+654,none,24,critical account,car (used),2346, ... < 100,4 <= ... < 7y,4,male : single,none,3,car OR other,35,none,own,2,skilled employed OR official ,1,yes,yes,1
+655,negative,14,existing AND duly paid,car (new),3973, ... < 100,unemployed,1,male : single,none,4,none OR unknown,22,none,for free,1,skilled employed OR official ,1,no,yes,1
+656, 0 <= ... <= 200,12,existing AND duly paid,car (new),888, ... < 100,7y <= ...,4,male : single,none,4,car OR other,41,bank,own,1,unskilled - resident,2,no,yes,2
+657,none,48,existing AND duly paid,radio OR tv,10222,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,3,car OR other,37,stores,own,1,skilled employed OR official ,1,yes,yes,1
+658, 0 <= ... <= 200,30,none OR duly paid,business,4221, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,1,car OR other,28,none,own,2,skilled employed OR official ,1,no,yes,1
+659, 0 <= ... <= 200,18,critical account,furniture,6361, ... < 100,7y <= ...,2,male : single,none,1,none OR unknown,41,none,own,1,skilled employed OR official ,1,yes,yes,1
+660,200 < ...,12,existing AND duly paid,radio OR tv,1297, ... < 100,1 <= ... < 4y,3,male : married,none,4,real estate,23,none,rent,1,skilled employed OR official ,1,no,yes,1
+661,negative,12,existing AND duly paid,car (new),900,unknown OR no savings account,1 <= ... < 4y,4,male : married,none,2,car OR other,23,none,own,1,skilled employed OR official ,1,no,yes,2
+662,none,21,existing AND duly paid,furniture,2241, ... < 100,7y <= ...,4,male : single,none,2,real estate,50,none,own,2,skilled employed OR official ,1,no,yes,1
+663, 0 <= ... <= 200,6,delayed,furniture,1050, ... < 100,unemployed,4,male : single,none,1,society savings agreement OR life insurance,35,stores,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+664,200 < ...,6,critical account,education,1047, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,50,none,own,1,unskilled - resident,1,no,yes,1
+665,none,24,critical account,other,6314, ... < 100,unemployed,4,male : single,co-applicant,2,none OR unknown,27,bank,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+666, 0 <= ... <= 200,30,duly paid,furniture,3496,1000 <= ...,1 <= ... < 4y,4,male : single,none,2,car OR other,34,stores,own,1,skilled employed OR official ,2,yes,yes,1
+667,none,48,duly paid,business,3609, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,1,real estate,27,stores,own,1,skilled employed OR official ,1,no,yes,1
+668,negative,12,critical account,car (new),4843, ... < 100,7y <= ...,3,male : single,co-applicant,4,society savings agreement OR life insurance,43,none,rent,2,skilled employed OR official ,1,yes,yes,2
+669,200 < ...,30,critical account,radio OR tv,3017, ... < 100,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,47,none,own,1,skilled employed OR official ,1,no,yes,1
+670,none,24,critical account,business,4139,100 <= ... < 500,1 <= ... < 4y,3,male : single,none,3,society savings agreement OR life insurance,27,none,own,2,unskilled - resident,1,yes,yes,1
+671,none,36,existing AND duly paid,business,5742,100 <= ... < 500,4 <= ... < 7y,2,male : single,none,2,car OR other,31,none,own,2,skilled employed OR official ,1,yes,yes,1
+672,none,60,existing AND duly paid,car (new),10366, ... < 100,7y <= ...,2,male : single,none,4,society savings agreement OR life insurance,42,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+673,none,6,critical account,car (new),2080,500 <= ... < 1000,1 <= ... < 4y,1,male : married,none,2,car OR other,24,none,own,1,skilled employed OR official ,1,no,yes,1
+674,none,21,delayed,business,2580,500 <= ... < 1000, ... < 1y,4,male : single,none,2,real estate,41,bank,own,1,unskilled - resident,2,no,yes,2
+675,none,30,critical account,radio OR tv,4530, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,4,car OR other,26,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+676,none,24,critical account,furniture,5150, ... < 100,7y <= ...,4,male : single,none,4,car OR other,33,none,own,1,skilled employed OR official ,1,yes,yes,1
+677, 0 <= ... <= 200,72,existing AND duly paid,radio OR tv,5595,100 <= ... < 500,1 <= ... < 4y,2,male : married,none,2,car OR other,24,none,own,1,skilled employed OR official ,1,no,yes,2
+678,negative,24,existing AND duly paid,radio OR tv,2384, ... < 100,7y <= ...,4,male : single,none,4,real estate,64,bank,rent,1,unskilled - resident,1,no,yes,1
+679,none,18,existing AND duly paid,radio OR tv,1453, ... < 100, ... < 1y,3,female : married OR separated OR divorced,none,1,real estate,26,none,own,1,skilled employed OR official ,1,no,yes,1
+680,none,6,existing AND duly paid,education,1538, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,2,none OR unknown,56,none,own,1,skilled employed OR official ,1,no,yes,1
+681,none,12,existing AND duly paid,radio OR tv,2279,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,4,none OR unknown,37,none,for free,1,skilled employed OR official ,1,yes,yes,1
+682,none,15,delayed,radio OR tv,1478, ... < 100,1 <= ... < 4y,4,male : married,none,3,real estate,33,bank,own,2,skilled employed OR official ,1,no,yes,1
+683,none,24,critical account,radio OR tv,5103, ... < 100, ... < 1y,3,male : married,none,3,none OR unknown,47,none,for free,3,skilled employed OR official ,1,yes,yes,1
+684, 0 <= ... <= 200,36,delayed,business,9857,100 <= ... < 500,4 <= ... < 7y,1,male : single,none,3,society savings agreement OR life insurance,31,none,own,2,unskilled - resident,2,yes,yes,1
+685,none,60,existing AND duly paid,car (new),6527,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,4,none OR unknown,34,none,for free,1,skilled employed OR official ,2,yes,yes,1
+686,200 < ...,10,critical account,radio OR tv,1347,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,2,society savings agreement OR life insurance,27,none,own,2,skilled employed OR official ,1,yes,yes,1
+687, 0 <= ... <= 200,36,delayed,car (new),2862,100 <= ... < 500,7y <= ...,4,male : single,none,3,none OR unknown,30,none,for free,1,skilled employed OR official ,1,no,yes,1
+688,none,9,existing AND duly paid,radio OR tv,2753,100 <= ... < 500,7y <= ...,3,male : single,co-applicant,4,car OR other,35,none,own,1,skilled employed OR official ,1,yes,yes,1
+689,negative,12,existing AND duly paid,car (new),3651,1000 <= ...,1 <= ... < 4y,1,male : single,none,3,society savings agreement OR life insurance,31,none,own,1,skilled employed OR official ,2,no,yes,1
+690,negative,15,critical account,furniture,975, ... < 100,1 <= ... < 4y,2,male : separated OR divorced,none,3,society savings agreement OR life insurance,25,none,own,2,skilled employed OR official ,1,no,yes,1
+691, 0 <= ... <= 200,15,existing AND duly paid,repairs,2631,100 <= ... < 500,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,real estate,25,none,own,1,unskilled - resident,1,no,yes,1
+692, 0 <= ... <= 200,24,existing AND duly paid,radio OR tv,2896,100 <= ... < 500, ... < 1y,2,male : single,none,1,car OR other,29,none,own,1,skilled employed OR official ,1,no,yes,1
+693,negative,6,critical account,car (new),4716,unknown OR no savings account, ... < 1y,1,male : single,none,3,real estate,44,none,own,2,unskilled - resident,2,no,yes,1
+694,none,24,existing AND duly paid,radio OR tv,2284, ... < 100,4 <= ... < 7y,4,male : single,none,2,car OR other,28,none,own,1,skilled employed OR official ,1,yes,yes,1
+695,none,6,existing AND duly paid,car (used),1236,500 <= ... < 1000,1 <= ... < 4y,2,male : single,none,4,society savings agreement OR life insurance,50,none,rent,1,skilled employed OR official ,1,no,yes,1
+696, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,1103, ... < 100,4 <= ... < 7y,4,male : single,guarantor,3,real estate,29,none,own,2,skilled employed OR official ,1,no,no,1
+697,none,12,critical account,car (new),926, ... < 100,unemployed,1,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,38,none,own,1,unemployed OR unskilled - non-resident,1,no,yes,1
+698,none,18,critical account,radio OR tv,1800, ... < 100,1 <= ... < 4y,4,male : single,none,2,car OR other,24,none,own,2,skilled employed OR official ,1,no,yes,1
+699,200 < ...,15,existing AND duly paid,education,1905, ... < 100,7y <= ...,4,male : single,none,4,car OR other,40,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+700,none,12,existing AND duly paid,furniture,1123,500 <= ... < 1000,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,car OR other,29,none,rent,1,unskilled - resident,1,no,yes,2
+701,negative,48,critical account,car (used),6331, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,46,none,for free,2,skilled employed OR official ,1,yes,yes,2
+702,200 < ...,24,existing AND duly paid,radio OR tv,1377,100 <= ... < 500,7y <= ...,4,female : married OR separated OR divorced,none,2,none OR unknown,47,none,for free,1,skilled employed OR official ,1,yes,yes,1
+703, 0 <= ... <= 200,30,delayed,business,2503,100 <= ... < 500,7y <= ...,4,male : single,none,2,society savings agreement OR life insurance,41,stores,own,2,skilled employed OR official ,1,no,yes,1
+704, 0 <= ... <= 200,27,existing AND duly paid,business,2528, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,32,none,own,1,skilled employed OR official ,2,yes,yes,1
+705,none,15,existing AND duly paid,car (new),5324,500 <= ... < 1000,7y <= ...,1,female : married OR separated OR divorced,none,4,none OR unknown,35,none,for free,1,skilled employed OR official ,1,no,yes,1
+706, 0 <= ... <= 200,48,existing AND duly paid,car (new),6560,100 <= ... < 500,4 <= ... < 7y,3,male : single,none,2,society savings agreement OR life insurance,24,none,own,1,skilled employed OR official ,1,no,yes,2
+707, 0 <= ... <= 200,12,none OR duly paid,furniture,2969, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,3,society savings agreement OR life insurance,25,none,rent,2,skilled employed OR official ,1,no,yes,2
+708, 0 <= ... <= 200,9,existing AND duly paid,radio OR tv,1206, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,4,real estate,25,none,own,1,skilled employed OR official ,1,no,yes,1
+709, 0 <= ... <= 200,9,existing AND duly paid,radio OR tv,2118, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,37,none,own,1,unskilled - resident,2,no,yes,1
+710,none,18,critical account,radio OR tv,629,500 <= ... < 1000,7y <= ...,4,male : single,none,3,society savings agreement OR life insurance,32,bank,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+711,negative,6,duly paid,education,1198, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,4,none OR unknown,35,none,for free,1,skilled employed OR official ,1,no,yes,2
+712,none,21,existing AND duly paid,car (used),2476,unknown OR no savings account,7y <= ...,4,male : single,none,4,real estate,46,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+713,negative,9,critical account,radio OR tv,1138, ... < 100,1 <= ... < 4y,4,male : single,none,4,real estate,25,none,own,2,unskilled - resident,1,no,yes,1
+714, 0 <= ... <= 200,60,existing AND duly paid,car (new),14027, ... < 100,4 <= ... < 7y,4,male : single,none,2,none OR unknown,27,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+715,none,30,critical account,car (used),7596,unknown OR no savings account,7y <= ...,1,male : single,none,4,car OR other,63,none,own,2,skilled employed OR official ,1,no,yes,1
+716,none,30,critical account,radio OR tv,3077,unknown OR no savings account,7y <= ...,3,male : single,none,2,car OR other,40,none,own,2,skilled employed OR official ,2,yes,yes,1
+717,none,18,existing AND duly paid,radio OR tv,1505, ... < 100,1 <= ... < 4y,4,male : single,none,2,none OR unknown,32,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+718,200 < ...,24,critical account,radio OR tv,3148,unknown OR no savings account,1 <= ... < 4y,3,male : single,none,2,car OR other,31,none,own,2,skilled employed OR official ,1,yes,yes,1
+719, 0 <= ... <= 200,20,none OR duly paid,car (used),6148,100 <= ... < 500,7y <= ...,3,male : married,none,4,car OR other,31,bank,own,2,skilled employed OR official ,1,yes,yes,1
+720,200 < ...,9,none OR duly paid,radio OR tv,1337, ... < 100, ... < 1y,4,male : single,none,2,car OR other,34,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+721, 0 <= ... <= 200,6,duly paid,education,433,1000 <= ..., ... < 1y,4,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,24,bank,rent,1,skilled employed OR official ,2,no,yes,2
+722,negative,12,existing AND duly paid,car (new),1228, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,real estate,24,none,own,1,unskilled - resident,1,no,yes,2
+723, 0 <= ... <= 200,9,existing AND duly paid,radio OR tv,790,500 <= ... < 1000,1 <= ... < 4y,4,female : married OR separated OR divorced,none,3,real estate,66,none,own,1,unskilled - resident,1,no,yes,1
+724,none,27,existing AND duly paid,car (new),2570, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,3,real estate,21,none,rent,1,skilled employed OR official ,1,no,yes,2
+725,none,6,critical account,car (new),250,1000 <= ...,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,real estate,41,bank,own,2,unskilled - resident,1,no,yes,1
+726,none,15,critical account,radio OR tv,1316,500 <= ... < 1000,1 <= ... < 4y,2,male : married,none,2,society savings agreement OR life insurance,47,none,own,2,unskilled - resident,1,no,yes,1
+727,negative,18,existing AND duly paid,radio OR tv,1882, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,car OR other,25,bank,rent,2,skilled employed OR official ,1,no,yes,2
+728, 0 <= ... <= 200,48,duly paid,business,6416, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,3,none OR unknown,59,none,rent,1,skilled employed OR official ,1,no,yes,2
+729,200 < ...,24,critical account,business,1275,1000 <= ...,1 <= ... < 4y,2,male : separated OR divorced,none,4,real estate,36,none,own,2,skilled employed OR official ,1,yes,yes,1
+730, 0 <= ... <= 200,24,delayed,radio OR tv,6403, ... < 100, ... < 1y,1,male : single,none,2,car OR other,33,none,own,1,skilled employed OR official ,1,no,yes,1
+731,negative,24,existing AND duly paid,radio OR tv,1987, ... < 100,1 <= ... < 4y,2,male : single,none,4,real estate,21,none,rent,1,unskilled - resident,2,no,yes,2
+732, 0 <= ... <= 200,8,existing AND duly paid,radio OR tv,760, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,guarantor,2,real estate,44,none,own,1,unskilled - resident,1,no,yes,1
+733,none,24,existing AND duly paid,car (used),2603,1000 <= ...,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,car OR other,28,none,rent,1,skilled employed OR official ,1,yes,yes,1
+734,none,4,critical account,car (new),3380, ... < 100,4 <= ... < 7y,1,female : married OR separated OR divorced,none,1,real estate,37,none,own,1,skilled employed OR official ,2,no,yes,1
+735, 0 <= ... <= 200,36,duly paid,domestic appliances,3990,unknown OR no savings account, ... < 1y,3,female : married OR separated OR divorced,none,2,none OR unknown,29,bank,own,1,unemployed OR unskilled - non-resident,1,no,yes,1
+736, 0 <= ... <= 200,24,existing AND duly paid,car (used),11560, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,4,car OR other,23,none,rent,2,management OR self-employed OR highly qualified employee OR officer,1,no,yes,2
+737,negative,18,existing AND duly paid,car (new),4380,100 <= ... < 500,1 <= ... < 4y,3,male : single,none,4,car OR other,35,none,own,1,unskilled - resident,2,yes,yes,1
+738,none,6,critical account,car (new),6761, ... < 100,4 <= ... < 7y,1,male : single,none,3,none OR unknown,45,none,own,2,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+739, 0 <= ... <= 200,30,none OR duly paid,business,4280,100 <= ... < 500,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,car OR other,26,none,rent,2,unskilled - resident,1,no,yes,2
+740,negative,24,duly paid,car (new),2325,100 <= ... < 500,4 <= ... < 7y,2,male : single,none,3,car OR other,32,bank,own,1,skilled employed OR official ,1,no,yes,1
+741, 0 <= ... <= 200,10,duly paid,radio OR tv,1048, ... < 100,1 <= ... < 4y,4,male : single,none,4,real estate,23,stores,own,1,unskilled - resident,1,no,yes,1
+742,none,21,existing AND duly paid,radio OR tv,3160,unknown OR no savings account,7y <= ...,4,male : single,none,3,society savings agreement OR life insurance,41,none,own,1,skilled employed OR official ,1,yes,yes,1
+743,negative,24,duly paid,furniture,2483,500 <= ... < 1000,1 <= ... < 4y,4,male : single,none,4,real estate,22,stores,own,1,skilled employed OR official ,1,yes,yes,1
+744,negative,39,critical account,furniture,14179,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,4,society savings agreement OR life insurance,30,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+745,negative,13,critical account,business,1797, ... < 100, ... < 1y,3,male : single,none,1,society savings agreement OR life insurance,28,bank,own,2,unskilled - resident,1,no,yes,1
+746,negative,15,existing AND duly paid,car (new),2511, ... < 100,unemployed,1,female : married OR separated OR divorced,none,4,car OR other,23,none,rent,1,skilled employed OR official ,1,no,yes,1
+747,negative,12,existing AND duly paid,car (new),1274, ... < 100, ... < 1y,3,female : married OR separated OR divorced,none,1,real estate,37,none,own,1,unskilled - resident,1,no,yes,2
+748,none,21,existing AND duly paid,car (used),5248,unknown OR no savings account,1 <= ... < 4y,1,male : single,none,3,car OR other,26,none,own,1,skilled employed OR official ,1,no,yes,1
+749,none,15,existing AND duly paid,car (used),3029, ... < 100,4 <= ... < 7y,2,male : single,none,2,car OR other,33,none,own,1,skilled employed OR official ,1,no,yes,1
+750,negative,6,existing AND duly paid,furniture,428, ... < 100,7y <= ...,2,female : married OR separated OR divorced,none,1,society savings agreement OR life insurance,49,bank,own,1,skilled employed OR official ,1,yes,yes,1
+751,negative,18,existing AND duly paid,car (new),976, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,2,car OR other,23,none,own,1,unskilled - resident,1,no,yes,2
+752, 0 <= ... <= 200,12,existing AND duly paid,business,841,100 <= ... < 500,4 <= ... < 7y,2,female : married OR separated OR divorced,none,4,real estate,23,none,rent,1,unskilled - resident,1,no,yes,1
+753,none,30,critical account,radio OR tv,5771, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,none,2,car OR other,25,none,own,2,skilled employed OR official ,1,no,yes,1
+754,none,12,delayed,repairs,1555,1000 <= ...,7y <= ...,4,male : single,none,4,none OR unknown,55,none,for free,2,skilled employed OR official ,2,no,yes,2
+755,negative,24,existing AND duly paid,car (new),1285,unknown OR no savings account,4 <= ... < 7y,4,female : married OR separated OR divorced,none,4,none OR unknown,32,none,rent,1,skilled employed OR official ,1,no,yes,2
+756,200 < ...,6,critical account,car (new),1299, ... < 100,1 <= ... < 4y,1,male : single,none,1,real estate,74,none,own,3,unemployed OR unskilled - non-resident,2,no,no,1
+757,200 < ...,15,critical account,radio OR tv,1271,unknown OR no savings account,1 <= ... < 4y,3,male : single,none,4,none OR unknown,39,none,for free,2,skilled employed OR official ,1,yes,yes,2
+758,none,24,existing AND duly paid,car (new),1393, ... < 100,1 <= ... < 4y,2,male : single,guarantor,2,real estate,31,none,own,1,skilled employed OR official ,1,yes,yes,1
+759,negative,12,critical account,car (new),691, ... < 100,7y <= ...,4,male : single,none,3,society savings agreement OR life insurance,35,none,own,2,skilled employed OR official ,1,no,yes,2
+760,none,15,critical account,car (new),5045,unknown OR no savings account,7y <= ...,1,female : married OR separated OR divorced,none,4,car OR other,59,none,own,1,skilled employed OR official ,1,yes,yes,1
+761,negative,18,critical account,furniture,2124, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,real estate,24,none,rent,2,skilled employed OR official ,1,no,yes,2
+762,negative,12,existing AND duly paid,radio OR tv,2214, ... < 100,1 <= ... < 4y,4,male : single,none,3,society savings agreement OR life insurance,24,none,own,1,unskilled - resident,1,no,yes,1
+763,none,21,critical account,car (new),12680,unknown OR no savings account,7y <= ...,4,male : single,none,4,none OR unknown,30,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+764,none,24,critical account,car (new),2463,100 <= ... < 500,4 <= ... < 7y,4,male : married,none,3,society savings agreement OR life insurance,27,none,own,2,skilled employed OR official ,1,yes,yes,1
+765, 0 <= ... <= 200,12,existing AND duly paid,radio OR tv,1155, ... < 100,7y <= ...,3,male : married,guarantor,3,real estate,40,bank,own,2,unskilled - resident,1,no,yes,1
+766,negative,30,existing AND duly paid,furniture,3108, ... < 100, ... < 1y,2,male : separated OR divorced,none,4,society savings agreement OR life insurance,31,none,own,1,unskilled - resident,1,no,yes,2
+767,none,10,existing AND duly paid,car (used),2901,unknown OR no savings account, ... < 1y,1,female : married OR separated OR divorced,none,4,real estate,31,none,rent,1,skilled employed OR official ,1,no,yes,1
+768, 0 <= ... <= 200,12,critical account,furniture,3617, ... < 100,7y <= ...,1,male : single,none,4,car OR other,28,none,rent,3,skilled employed OR official ,1,yes,yes,1
+769,none,12,critical account,radio OR tv,1655, ... < 100,7y <= ...,2,male : single,none,4,real estate,63,none,own,2,unskilled - resident,1,yes,yes,1
+770,negative,24,existing AND duly paid,car (used),2812,unknown OR no savings account,7y <= ...,2,female : married OR separated OR divorced,none,4,real estate,26,none,rent,1,skilled employed OR official ,1,no,yes,1
+771,negative,36,critical account,education,8065, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,none OR unknown,25,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+772,none,21,critical account,car (used),3275, ... < 100,7y <= ...,1,male : single,none,4,car OR other,36,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+773,none,24,critical account,radio OR tv,2223,100 <= ... < 500,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,52,bank,own,2,skilled employed OR official ,1,no,yes,1
+774,200 < ...,12,critical account,car (new),1480,500 <= ... < 1000,unemployed,2,male : single,none,4,none OR unknown,66,bank,for free,3,unemployed OR unskilled - non-resident,1,no,yes,1
+775,negative,24,existing AND duly paid,car (new),1371,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,real estate,25,none,rent,1,skilled employed OR official ,1,no,yes,2
+776,none,36,critical account,car (new),3535, ... < 100,4 <= ... < 7y,4,male : single,none,4,car OR other,37,none,own,2,skilled employed OR official ,1,yes,yes,1
+777,negative,18,existing AND duly paid,radio OR tv,3509, ... < 100,4 <= ... < 7y,4,female : married OR separated OR divorced,guarantor,1,real estate,25,none,own,1,skilled employed OR official ,1,no,yes,1
+778,none,36,critical account,car (used),5711,1000 <= ...,7y <= ...,4,male : single,none,2,car OR other,38,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+779, 0 <= ... <= 200,18,existing AND duly paid,repairs,3872, ... < 100,unemployed,2,female : married OR separated OR divorced,none,4,car OR other,67,none,own,1,skilled employed OR official ,1,yes,yes,1
+780, 0 <= ... <= 200,39,critical account,radio OR tv,4933, ... < 100,4 <= ... < 7y,2,male : single,guarantor,2,real estate,25,none,own,2,skilled employed OR official ,1,no,yes,2
+781,none,24,critical account,car (new),1940,1000 <= ...,7y <= ...,4,male : single,none,4,real estate,60,none,own,1,skilled employed OR official ,1,yes,yes,1
+782, 0 <= ... <= 200,12,none OR duly paid,retraining,1410, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,31,none,own,1,unskilled - resident,1,yes,yes,1
+783, 0 <= ... <= 200,12,existing AND duly paid,car (new),836,100 <= ... < 500, ... < 1y,4,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,23,bank,own,1,unskilled - resident,1,no,yes,2
+784, 0 <= ... <= 200,20,existing AND duly paid,car (used),6468,unknown OR no savings account,unemployed,1,male : separated OR divorced,none,4,real estate,60,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+785, 0 <= ... <= 200,18,existing AND duly paid,business,1941,1000 <= ...,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,35,none,own,1,unskilled - resident,1,yes,yes,1
+786,none,22,existing AND duly paid,radio OR tv,2675,500 <= ... < 1000,7y <= ...,3,male : single,none,4,car OR other,40,none,own,1,skilled employed OR official ,1,no,yes,1
+787,none,48,critical account,car (used),2751,unknown OR no savings account,7y <= ...,4,male : single,none,3,car OR other,38,none,own,2,skilled employed OR official ,2,yes,yes,1
+788, 0 <= ... <= 200,48,delayed,education,6224, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,50,none,for free,1,skilled employed OR official ,1,no,yes,2
+789,negative,40,critical account,education,5998, ... < 100,1 <= ... < 4y,4,male : single,none,3,none OR unknown,27,bank,own,1,skilled employed OR official ,1,yes,yes,2
+790, 0 <= ... <= 200,21,existing AND duly paid,business,1188, ... < 100,7y <= ...,2,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,39,none,own,1,skilled employed OR official ,2,no,yes,2
+791,none,24,existing AND duly paid,car (used),6313,unknown OR no savings account,7y <= ...,3,male : single,none,4,car OR other,41,none,own,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+792,none,6,critical account,furniture,1221,unknown OR no savings account,1 <= ... < 4y,1,male : married,none,2,society savings agreement OR life insurance,27,none,own,2,skilled employed OR official ,1,no,yes,1
+793,200 < ...,24,existing AND duly paid,furniture,2892, ... < 100,7y <= ...,3,male : separated OR divorced,none,4,none OR unknown,51,none,for free,1,skilled employed OR official ,1,no,yes,1
+794,none,24,existing AND duly paid,furniture,3062,500 <= ... < 1000,7y <= ...,4,male : single,none,3,none OR unknown,32,none,rent,1,skilled employed OR official ,1,yes,yes,1
+795,none,9,existing AND duly paid,furniture,2301,100 <= ... < 500, ... < 1y,2,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,22,none,rent,1,skilled employed OR official ,1,no,yes,1
+796,negative,18,existing AND duly paid,car (used),7511,unknown OR no savings account,7y <= ...,1,male : single,none,4,society savings agreement OR life insurance,51,none,for free,1,skilled employed OR official ,2,yes,yes,2
+797,none,12,critical account,furniture,1258, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,22,none,rent,2,unskilled - resident,1,no,yes,1
+798,none,24,delayed,car (new),717,unknown OR no savings account,7y <= ...,4,male : married,none,4,car OR other,54,none,own,2,skilled employed OR official ,1,yes,yes,1
+799, 0 <= ... <= 200,9,existing AND duly paid,car (new),1549,unknown OR no savings account, ... < 1y,4,male : single,none,2,real estate,35,none,own,1,unemployed OR unskilled - non-resident,1,no,yes,1
+800,none,24,critical account,education,1597, ... < 100,7y <= ...,4,male : single,none,4,none OR unknown,54,none,for free,2,skilled employed OR official ,2,no,yes,1
+801, 0 <= ... <= 200,18,critical account,radio OR tv,1795, ... < 100,7y <= ...,3,female : married OR separated OR divorced,guarantor,4,real estate,48,bank,rent,2,unskilled - resident,1,yes,yes,1
+802,negative,20,critical account,furniture,4272, ... < 100,7y <= ...,1,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,24,none,own,2,skilled employed OR official ,1,no,yes,1
+803,none,12,critical account,radio OR tv,976,unknown OR no savings account,7y <= ...,4,male : single,none,4,car OR other,35,none,own,2,skilled employed OR official ,1,no,yes,1
+804, 0 <= ... <= 200,12,existing AND duly paid,car (new),7472,unknown OR no savings account,unemployed,1,female : married OR separated OR divorced,none,2,real estate,24,none,rent,1,unemployed OR unskilled - non-resident,1,no,yes,1
+805,negative,36,existing AND duly paid,car (new),9271, ... < 100,4 <= ... < 7y,2,male : single,none,1,car OR other,24,none,own,1,skilled employed OR official ,1,yes,yes,2
+806, 0 <= ... <= 200,6,existing AND duly paid,radio OR tv,590, ... < 100, ... < 1y,3,male : married,none,3,real estate,26,none,own,1,unskilled - resident,1,no,no,1
+807,none,12,critical account,radio OR tv,930,unknown OR no savings account,7y <= ...,4,male : single,none,4,real estate,65,none,own,4,skilled employed OR official ,1,no,yes,1
+808, 0 <= ... <= 200,42,duly paid,car (used),9283, ... < 100,unemployed,1,male : single,none,2,none OR unknown,55,bank,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+809, 0 <= ... <= 200,15,none OR duly paid,car (new),1778, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,1,real estate,26,none,rent,2,unemployed OR unskilled - non-resident,1,no,yes,2
+810, 0 <= ... <= 200,8,existing AND duly paid,business,907, ... < 100, ... < 1y,3,male : married,none,2,real estate,26,none,own,1,skilled employed OR official ,1,yes,yes,1
+811, 0 <= ... <= 200,6,existing AND duly paid,radio OR tv,484, ... < 100,4 <= ... < 7y,3,male : married,guarantor,3,real estate,28,bank,own,1,unskilled - resident,1,no,yes,1
+812,negative,36,critical account,car (used),9629, ... < 100,4 <= ... < 7y,4,male : single,none,4,car OR other,24,none,own,2,skilled employed OR official ,1,yes,yes,2
+813,negative,48,existing AND duly paid,domestic appliances,3051, ... < 100,1 <= ... < 4y,3,male : single,none,4,car OR other,54,none,own,1,skilled employed OR official ,1,no,yes,2
+814,negative,48,existing AND duly paid,car (new),3931, ... < 100,4 <= ... < 7y,4,male : single,none,4,none OR unknown,46,none,for free,1,skilled employed OR official ,2,no,yes,2
+815, 0 <= ... <= 200,36,delayed,car (new),7432, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,54,none,rent,1,skilled employed OR official ,1,no,yes,1
+816,none,6,existing AND duly paid,domestic appliances,1338,500 <= ... < 1000,1 <= ... < 4y,1,male : separated OR divorced,none,4,real estate,62,none,own,1,skilled employed OR official ,1,no,yes,1
+817,none,6,critical account,radio OR tv,1554, ... < 100,4 <= ... < 7y,1,female : married OR separated OR divorced,none,2,car OR other,24,none,rent,2,skilled employed OR official ,1,yes,yes,1
+818,negative,36,existing AND duly paid,other,15857, ... < 100,unemployed,2,male : separated OR divorced,co-applicant,3,car OR other,43,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,no,yes,1
+819,negative,18,existing AND duly paid,radio OR tv,1345, ... < 100,1 <= ... < 4y,4,male : married,none,3,real estate,26,bank,own,1,skilled employed OR official ,1,no,yes,2
+820,none,12,existing AND duly paid,car (new),1101, ... < 100,1 <= ... < 4y,3,male : married,none,2,real estate,27,none,own,2,skilled employed OR official ,1,yes,yes,1
+821,200 < ...,12,existing AND duly paid,radio OR tv,3016, ... < 100,1 <= ... < 4y,3,male : married,none,1,car OR other,24,none,own,1,skilled employed OR official ,1,no,yes,1
+822,negative,36,existing AND duly paid,furniture,2712, ... < 100,7y <= ...,2,male : single,none,2,society savings agreement OR life insurance,41,bank,own,1,skilled employed OR official ,2,no,yes,2
+823,negative,8,critical account,car (new),731, ... < 100,7y <= ...,4,male : single,none,4,real estate,47,none,own,2,unskilled - resident,1,no,yes,1
+824,none,18,critical account,furniture,3780, ... < 100, ... < 1y,3,male : separated OR divorced,none,2,car OR other,35,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+825,negative,21,critical account,car (new),1602, ... < 100,7y <= ...,4,male : married,none,3,car OR other,30,none,own,2,skilled employed OR official ,1,yes,yes,1
+826,negative,18,critical account,car (new),3966, ... < 100,7y <= ...,1,female : married OR separated OR divorced,none,4,real estate,33,bank,rent,3,skilled employed OR official ,1,yes,yes,2
+827,none,18,none OR duly paid,business,4165, ... < 100,1 <= ... < 4y,2,male : single,none,2,car OR other,36,stores,own,2,skilled employed OR official ,2,no,yes,2
+828,negative,36,existing AND duly paid,car (used),8335,unknown OR no savings account,7y <= ...,3,male : single,none,4,none OR unknown,47,none,for free,1,skilled employed OR official ,1,no,yes,2
+829, 0 <= ... <= 200,48,delayed,business,6681,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,4,none OR unknown,38,none,for free,1,skilled employed OR official ,2,yes,yes,1
+830,none,24,delayed,business,2375,500 <= ... < 1000,1 <= ... < 4y,4,male : single,none,2,car OR other,44,none,own,2,skilled employed OR official ,2,yes,yes,1
+831,negative,18,existing AND duly paid,car (new),1216, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,3,car OR other,23,none,rent,1,skilled employed OR official ,1,yes,yes,2
+832,negative,45,none OR duly paid,business,11816, ... < 100,7y <= ...,2,male : single,none,4,car OR other,29,none,rent,2,skilled employed OR official ,1,no,yes,2
+833, 0 <= ... <= 200,24,existing AND duly paid,radio OR tv,5084,unknown OR no savings account,7y <= ...,2,female : married OR separated OR divorced,none,4,car OR other,42,none,own,1,skilled employed OR official ,1,yes,yes,1
+834,200 < ...,15,existing AND duly paid,radio OR tv,2327, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,3,real estate,25,none,own,1,unskilled - resident,1,no,yes,2
+835,negative,12,none OR duly paid,car (new),1082, ... < 100,1 <= ... < 4y,4,male : single,none,4,car OR other,48,bank,own,2,skilled employed OR official ,1,no,yes,2
+836,none,12,existing AND duly paid,radio OR tv,886,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,car OR other,21,none,own,1,skilled employed OR official ,1,no,yes,1
+837,none,4,existing AND duly paid,furniture,601, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,3,real estate,23,none,rent,1,unskilled - resident,2,no,yes,1
+838,negative,24,critical account,car (used),2957, ... < 100,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,63,none,own,2,skilled employed OR official ,1,yes,yes,1
+839,none,24,critical account,radio OR tv,2611, ... < 100,7y <= ...,4,male : married,co-applicant,3,real estate,46,none,own,2,skilled employed OR official ,1,no,yes,1
+840,negative,36,existing AND duly paid,furniture,5179, ... < 100,4 <= ... < 7y,4,male : single,none,2,society savings agreement OR life insurance,29,none,own,1,skilled employed OR official ,1,no,yes,2
+841,none,21,delayed,car (used),2993, ... < 100,1 <= ... < 4y,3,male : single,none,2,real estate,28,stores,own,2,unskilled - resident,1,no,yes,1
+842,none,18,existing AND duly paid,repairs,1943, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,real estate,23,none,own,1,skilled employed OR official ,1,no,yes,2
+843,none,24,duly paid,business,1559, ... < 100,4 <= ... < 7y,4,male : single,none,4,car OR other,50,bank,own,1,skilled employed OR official ,1,yes,yes,1
+844,none,18,existing AND duly paid,furniture,3422, ... < 100,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,47,bank,own,3,skilled employed OR official ,2,yes,yes,1
+845, 0 <= ... <= 200,21,existing AND duly paid,furniture,3976,unknown OR no savings account,4 <= ... < 7y,2,male : single,none,3,car OR other,35,none,own,1,skilled employed OR official ,1,yes,yes,1
+846,none,18,existing AND duly paid,car (new),6761,unknown OR no savings account,1 <= ... < 4y,2,male : single,none,4,car OR other,68,none,rent,2,skilled employed OR official ,1,no,yes,2
+847,none,24,existing AND duly paid,car (new),1249, ... < 100, ... < 1y,4,male : married,none,2,real estate,28,none,own,1,skilled employed OR official ,1,no,yes,1
+848,negative,9,existing AND duly paid,radio OR tv,1364, ... < 100,4 <= ... < 7y,3,male : single,none,4,real estate,59,none,own,1,skilled employed OR official ,1,no,yes,1
+849,negative,12,existing AND duly paid,radio OR tv,709, ... < 100,7y <= ...,4,male : single,none,4,real estate,57,stores,own,1,unskilled - resident,1,no,yes,2
+850,negative,20,critical account,car (new),2235, ... < 100,1 <= ... < 4y,4,male : married,guarantor,2,society savings agreement OR life insurance,33,bank,rent,2,skilled employed OR official ,1,no,no,2
+851,none,24,critical account,car (used),4042,unknown OR no savings account,4 <= ... < 7y,3,male : single,none,4,society savings agreement OR life insurance,43,none,own,2,skilled employed OR official ,1,yes,yes,1
+852,none,15,critical account,radio OR tv,1471, ... < 100,1 <= ... < 4y,4,male : single,none,4,none OR unknown,35,none,for free,2,skilled employed OR official ,1,yes,yes,1
+853,negative,18,duly paid,car (new),1442, ... < 100,4 <= ... < 7y,4,male : single,none,4,none OR unknown,32,none,for free,2,unskilled - resident,2,no,yes,2
+854,none,36,delayed,car (new),10875, ... < 100,7y <= ...,2,male : single,none,2,car OR other,45,none,own,2,skilled employed OR official ,2,yes,yes,1
+855,none,24,existing AND duly paid,car (new),1474,100 <= ... < 500, ... < 1y,4,male : married,none,3,real estate,33,none,own,1,skilled employed OR official ,1,yes,yes,1
+856,none,10,existing AND duly paid,retraining,894,unknown OR no savings account,4 <= ... < 7y,4,female : married OR separated OR divorced,none,3,society savings agreement OR life insurance,40,none,own,1,skilled employed OR official ,1,yes,yes,1
+857,none,15,critical account,furniture,3343, ... < 100,1 <= ... < 4y,4,male : single,none,2,none OR unknown,28,none,for free,1,skilled employed OR official ,1,yes,yes,1
+858,negative,15,existing AND duly paid,car (new),3959, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,29,none,own,1,skilled employed OR official ,1,yes,yes,2
+859,none,9,existing AND duly paid,car (new),3577,100 <= ... < 500,1 <= ... < 4y,1,male : single,guarantor,2,real estate,26,none,rent,1,skilled employed OR official ,2,no,no,1
+860,none,24,critical account,car (used),5804,1000 <= ...,1 <= ... < 4y,4,male : single,none,2,real estate,27,none,own,2,skilled employed OR official ,1,no,yes,1
+861,none,18,delayed,business,2169, ... < 100,1 <= ... < 4y,4,male : married,none,2,car OR other,28,none,own,1,skilled employed OR official ,1,yes,yes,2
+862,negative,24,existing AND duly paid,radio OR tv,2439, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,real estate,35,none,own,1,skilled employed OR official ,1,yes,yes,2
+863,none,27,critical account,furniture,4526,1000 <= ..., ... < 1y,4,male : single,none,2,real estate,32,stores,own,2,unskilled - resident,2,yes,yes,1
+864,none,10,existing AND duly paid,furniture,2210, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,25,bank,rent,1,unskilled - resident,1,no,yes,2
+865,none,15,existing AND duly paid,furniture,2221,500 <= ... < 1000,1 <= ... < 4y,2,female : married OR separated OR divorced,none,4,car OR other,20,none,rent,1,skilled employed OR official ,1,no,yes,1
+866,negative,18,existing AND duly paid,radio OR tv,2389, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,1,car OR other,27,stores,own,1,skilled employed OR official ,1,no,yes,1
+867,none,12,critical account,furniture,3331, ... < 100,7y <= ...,2,male : single,none,4,society savings agreement OR life insurance,42,stores,own,1,skilled employed OR official ,1,no,yes,1
+868,none,36,existing AND duly paid,business,7409,unknown OR no savings account,7y <= ...,3,male : single,none,2,society savings agreement OR life insurance,37,none,own,2,skilled employed OR official ,1,no,yes,1
+869,negative,12,existing AND duly paid,furniture,652, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,24,none,rent,1,skilled employed OR official ,1,no,yes,1
+870,none,36,delayed,furniture,7678,500 <= ... < 1000,4 <= ... < 7y,2,female : married OR separated OR divorced,none,4,car OR other,40,none,own,2,skilled employed OR official ,1,yes,yes,1
+871,200 < ...,6,critical account,car (new),1343, ... < 100,7y <= ...,1,male : single,none,4,real estate,46,none,own,2,skilled employed OR official ,2,no,no,1
+872,negative,24,critical account,business,1382,100 <= ... < 500,4 <= ... < 7y,4,male : single,none,1,real estate,26,none,own,2,skilled employed OR official ,1,yes,yes,1
+873,none,15,existing AND duly paid,domestic appliances,874,unknown OR no savings account, ... < 1y,4,female : married OR separated OR divorced,none,1,real estate,24,none,own,1,skilled employed OR official ,1,no,yes,1
+874,negative,12,existing AND duly paid,furniture,3590, ... < 100,1 <= ... < 4y,2,male : single,co-applicant,2,society savings agreement OR life insurance,29,none,own,1,unskilled - resident,2,no,yes,1
+875, 0 <= ... <= 200,11,critical account,car (new),1322,1000 <= ...,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,car OR other,40,none,own,2,skilled employed OR official ,1,no,yes,1
+876,negative,18,duly paid,radio OR tv,1940, ... < 100, ... < 1y,3,male : single,co-applicant,4,none OR unknown,36,bank,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+877,none,36,existing AND duly paid,radio OR tv,3595, ... < 100,7y <= ...,4,male : single,none,2,car OR other,28,none,own,1,skilled employed OR official ,1,no,yes,1
+878,negative,9,existing AND duly paid,car (new),1422, ... < 100, ... < 1y,3,male : single,none,2,none OR unknown,27,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+879,none,30,critical account,radio OR tv,6742,unknown OR no savings account,4 <= ... < 7y,2,male : single,none,3,society savings agreement OR life insurance,36,none,own,2,skilled employed OR official ,1,no,yes,1
+880,none,24,existing AND duly paid,car (used),7814, ... < 100,4 <= ... < 7y,3,male : single,none,3,car OR other,38,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+881,none,24,existing AND duly paid,car (used),9277,unknown OR no savings account,1 <= ... < 4y,2,male : separated OR divorced,none,4,none OR unknown,48,none,for free,1,skilled employed OR official ,1,yes,yes,1
+882, 0 <= ... <= 200,30,critical account,car (new),2181,unknown OR no savings account,7y <= ...,4,male : single,none,4,real estate,36,none,own,2,skilled employed OR official ,1,no,yes,1
+883,none,18,critical account,radio OR tv,1098, ... < 100,unemployed,4,female : married OR separated OR divorced,none,4,car OR other,65,none,own,2,unemployed OR unskilled - non-resident,1,no,yes,1
+884, 0 <= ... <= 200,24,existing AND duly paid,furniture,4057, ... < 100,4 <= ... < 7y,3,male : separated OR divorced,none,3,car OR other,43,none,own,1,skilled employed OR official ,1,yes,yes,2
+885,negative,12,existing AND duly paid,education,795, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,53,none,own,1,skilled employed OR official ,1,no,yes,2
+886, 0 <= ... <= 200,24,critical account,business,2825,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,3,none OR unknown,34,none,own,2,skilled employed OR official ,2,yes,yes,1
+887, 0 <= ... <= 200,48,existing AND duly paid,business,15672, ... < 100,1 <= ... < 4y,2,male : single,none,2,car OR other,23,none,own,1,skilled employed OR official ,1,yes,yes,2
+888,none,36,critical account,car (new),6614, ... < 100,7y <= ...,4,male : single,none,4,car OR other,34,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+889,none,28,duly paid,car (used),7824,unknown OR no savings account, ... < 1y,3,male : single,guarantor,4,real estate,40,bank,rent,2,skilled employed OR official ,2,yes,yes,1
+890,negative,27,critical account,business,2442, ... < 100,7y <= ...,4,male : single,none,4,car OR other,43,stores,own,4,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+891,none,15,critical account,radio OR tv,1829, ... < 100,7y <= ...,4,male : single,none,4,car OR other,46,none,own,2,skilled employed OR official ,1,yes,yes,1
+892,negative,12,critical account,car (new),2171, ... < 100,1 <= ... < 4y,4,male : single,none,4,society savings agreement OR life insurance,38,bank,own,2,unskilled - resident,1,no,no,1
+893, 0 <= ... <= 200,36,critical account,car (used),5800, ... < 100,1 <= ... < 4y,3,male : single,none,4,car OR other,34,none,own,2,skilled employed OR official ,1,yes,yes,1
+894,none,18,critical account,radio OR tv,1169,unknown OR no savings account,1 <= ... < 4y,4,male : single,none,3,society savings agreement OR life insurance,29,none,own,2,skilled employed OR official ,1,yes,yes,1
+895,none,36,delayed,car (used),8947,unknown OR no savings account,4 <= ... < 7y,3,male : single,none,2,car OR other,31,stores,own,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+896,negative,21,existing AND duly paid,radio OR tv,2606, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,28,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+897,none,12,critical account,furniture,1592,1000 <= ...,4 <= ... < 7y,3,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,35,none,own,1,skilled employed OR official ,1,no,no,1
+898,none,15,existing AND duly paid,furniture,2186,unknown OR no savings account,4 <= ... < 7y,1,female : married OR separated OR divorced,none,4,real estate,33,bank,rent,1,unskilled - resident,1,no,yes,1
+899,negative,18,existing AND duly paid,furniture,4153, ... < 100,1 <= ... < 4y,2,male : single,co-applicant,3,car OR other,42,none,own,1,skilled employed OR official ,1,no,yes,2
+900,negative,16,critical account,car (new),2625, ... < 100,7y <= ...,2,male : single,guarantor,4,society savings agreement OR life insurance,43,bank,rent,1,skilled employed OR official ,1,yes,yes,2
+901,none,20,critical account,car (new),3485,unknown OR no savings account, ... < 1y,2,male : separated OR divorced,none,4,real estate,44,none,own,2,skilled employed OR official ,1,yes,yes,1
+902,none,36,critical account,car (used),10477,unknown OR no savings account,7y <= ...,2,male : single,none,4,none OR unknown,42,none,for free,2,skilled employed OR official ,1,no,yes,1
+903,none,15,existing AND duly paid,radio OR tv,1386,unknown OR no savings account,1 <= ... < 4y,4,male : married,none,2,real estate,40,none,rent,1,skilled employed OR official ,1,yes,yes,1
+904,none,24,existing AND duly paid,radio OR tv,1278, ... < 100,7y <= ...,4,male : single,none,1,real estate,36,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+905,negative,12,existing AND duly paid,radio OR tv,1107, ... < 100,1 <= ... < 4y,2,male : single,none,2,real estate,20,none,rent,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+906,negative,21,existing AND duly paid,car (new),3763,unknown OR no savings account,4 <= ... < 7y,2,male : single,co-applicant,2,real estate,24,none,own,1,unskilled - resident,1,no,no,1
+907, 0 <= ... <= 200,36,existing AND duly paid,education,3711,unknown OR no savings account,1 <= ... < 4y,2,male : married,none,2,car OR other,27,none,own,1,skilled employed OR official ,1,no,yes,1
+908,none,15,delayed,car (used),3594, ... < 100, ... < 1y,1,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,46,none,own,2,unskilled - resident,1,no,yes,1
+909, 0 <= ... <= 200,9,existing AND duly paid,car (new),3195,unknown OR no savings account,1 <= ... < 4y,1,female : married OR separated OR divorced,none,2,real estate,33,none,own,1,unskilled - resident,1,no,yes,1
+910,none,36,delayed,radio OR tv,4454, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,4,real estate,34,none,own,2,skilled employed OR official ,1,no,yes,1
+911, 0 <= ... <= 200,24,critical account,furniture,4736, ... < 100, ... < 1y,2,female : married OR separated OR divorced,none,4,car OR other,25,bank,own,1,unskilled - resident,1,no,yes,2
+912, 0 <= ... <= 200,30,existing AND duly paid,radio OR tv,2991,unknown OR no savings account,7y <= ...,2,female : married OR separated OR divorced,none,4,car OR other,25,none,own,1,skilled employed OR official ,1,no,yes,1
+913,none,11,existing AND duly paid,business,2142,1000 <= ...,7y <= ...,1,male : separated OR divorced,none,2,real estate,28,none,own,1,skilled employed OR official ,1,yes,yes,1
+914,negative,24,duly paid,business,3161, ... < 100,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,31,none,rent,1,skilled employed OR official ,1,yes,yes,2
+915, 0 <= ... <= 200,48,none OR duly paid,other,18424, ... < 100,1 <= ... < 4y,1,female : married OR separated OR divorced,none,2,society savings agreement OR life insurance,32,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,no,2
+916,none,10,existing AND duly paid,car (used),2848,100 <= ... < 500,1 <= ... < 4y,1,male : single,co-applicant,2,real estate,32,none,own,1,skilled employed OR official ,2,no,yes,1
+917,negative,6,existing AND duly paid,car (new),14896, ... < 100,7y <= ...,1,male : single,none,4,none OR unknown,68,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+918,negative,24,existing AND duly paid,furniture,2359,100 <= ... < 500,unemployed,1,male : separated OR divorced,none,1,society savings agreement OR life insurance,33,none,own,1,skilled employed OR official ,1,no,yes,2
+919,negative,24,existing AND duly paid,furniture,3345, ... < 100,7y <= ...,4,male : single,none,2,society savings agreement OR life insurance,39,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+920,none,18,critical account,furniture,1817, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,none OR unknown,28,none,own,2,skilled employed OR official ,1,no,yes,1
+921,none,48,delayed,radio OR tv,12749,500 <= ... < 1000,4 <= ... < 7y,4,male : single,none,1,car OR other,37,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+922,negative,9,existing AND duly paid,radio OR tv,1366, ... < 100, ... < 1y,3,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,22,none,rent,1,skilled employed OR official ,1,no,yes,2
+923, 0 <= ... <= 200,12,existing AND duly paid,car (new),2002, ... < 100,4 <= ... < 7y,3,male : single,none,4,society savings agreement OR life insurance,30,none,rent,1,skilled employed OR official ,2,yes,yes,1
+924,negative,24,duly paid,furniture,6872, ... < 100, ... < 1y,2,male : separated OR divorced,none,1,society savings agreement OR life insurance,55,bank,own,1,skilled employed OR official ,1,yes,yes,2
+925,negative,12,duly paid,car (new),697, ... < 100, ... < 1y,4,male : single,none,2,car OR other,46,bank,own,2,skilled employed OR official ,1,yes,yes,2
+926,negative,18,critical account,furniture,1049, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,21,none,rent,1,skilled employed OR official ,1,no,yes,1
+927,negative,48,existing AND duly paid,car (used),10297, ... < 100,4 <= ... < 7y,4,male : single,none,4,none OR unknown,39,stores,for free,3,skilled employed OR official ,2,yes,yes,2
+928,none,30,existing AND duly paid,radio OR tv,1867,unknown OR no savings account,7y <= ...,4,male : single,none,4,car OR other,58,none,own,1,skilled employed OR official ,1,yes,yes,1
+929,negative,12,delayed,car (new),1344, ... < 100,1 <= ... < 4y,4,male : single,none,2,real estate,43,none,own,2,unskilled - resident,2,no,yes,1
+930,negative,24,existing AND duly paid,furniture,1747, ... < 100, ... < 1y,4,male : single,co-applicant,1,society savings agreement OR life insurance,24,none,own,1,unskilled - resident,1,no,no,1
+931, 0 <= ... <= 200,9,existing AND duly paid,radio OR tv,1670, ... < 100, ... < 1y,4,female : married OR separated OR divorced,none,2,car OR other,22,none,own,1,skilled employed OR official ,1,yes,yes,2
+932,none,9,critical account,car (new),1224, ... < 100,1 <= ... < 4y,3,male : single,none,1,real estate,30,none,own,2,skilled employed OR official ,1,no,yes,1
+933,none,12,critical account,radio OR tv,522,500 <= ... < 1000,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,42,none,own,2,skilled employed OR official ,2,yes,yes,1
+934,negative,12,existing AND duly paid,radio OR tv,1498, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,1,car OR other,23,bank,own,1,skilled employed OR official ,1,no,yes,1
+935, 0 <= ... <= 200,30,delayed,radio OR tv,1919,100 <= ... < 500, ... < 1y,4,male : single,none,3,none OR unknown,30,stores,own,2,management OR self-employed OR highly qualified employee OR officer,1,no,yes,2
+936,200 < ...,9,existing AND duly paid,radio OR tv,745, ... < 100,1 <= ... < 4y,3,female : married OR separated OR divorced,none,2,real estate,28,none,own,1,unskilled - resident,1,no,yes,2
+937, 0 <= ... <= 200,6,existing AND duly paid,radio OR tv,2063, ... < 100, ... < 1y,4,male : married,none,3,car OR other,30,none,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+938, 0 <= ... <= 200,60,existing AND duly paid,education,6288, ... < 100,1 <= ... < 4y,4,male : single,none,4,none OR unknown,42,none,for free,1,skilled employed OR official ,1,no,yes,2
+939,none,24,critical account,car (used),6842,unknown OR no savings account,1 <= ... < 4y,2,male : single,none,4,society savings agreement OR life insurance,46,none,own,2,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+940,none,12,existing AND duly paid,car (new),3527,unknown OR no savings account, ... < 1y,2,male : single,none,3,society savings agreement OR life insurance,45,none,own,1,management OR self-employed OR highly qualified employee OR officer,2,yes,yes,1
+941,none,10,existing AND duly paid,car (new),1546, ... < 100,1 <= ... < 4y,3,male : single,none,2,real estate,31,none,own,1,unskilled - resident,2,no,no,1
+942,none,24,existing AND duly paid,furniture,929,unknown OR no savings account,4 <= ... < 7y,4,male : single,none,2,car OR other,31,stores,own,1,skilled employed OR official ,1,yes,yes,1
+943,none,4,critical account,car (new),1455, ... < 100,4 <= ... < 7y,2,male : single,none,1,real estate,42,none,own,3,unskilled - resident,2,no,yes,1
+944,negative,15,existing AND duly paid,furniture,1845, ... < 100, ... < 1y,4,female : married OR separated OR divorced,guarantor,1,society savings agreement OR life insurance,46,none,rent,1,skilled employed OR official ,1,no,yes,1
+945, 0 <= ... <= 200,48,none OR duly paid,car (new),8358,500 <= ... < 1000, ... < 1y,1,female : married OR separated OR divorced,none,1,car OR other,30,none,own,2,skilled employed OR official ,1,no,yes,1
+946,negative,24,duly paid,furniture,3349,500 <= ... < 1000, ... < 1y,4,male : single,none,4,none OR unknown,30,none,for free,1,skilled employed OR official ,2,yes,yes,2
+947,none,12,existing AND duly paid,car (new),2859,unknown OR no savings account,unemployed,4,male : single,none,4,none OR unknown,38,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+948,none,18,existing AND duly paid,furniture,1533, ... < 100, ... < 1y,4,male : married,co-applicant,1,society savings agreement OR life insurance,43,none,own,1,unskilled - resident,2,no,yes,2
+949,none,24,existing AND duly paid,radio OR tv,3621,100 <= ... < 500,7y <= ...,2,male : single,none,4,car OR other,31,none,own,2,skilled employed OR official ,1,no,yes,2
+950, 0 <= ... <= 200,18,critical account,business,3590, ... < 100,unemployed,3,male : married,none,3,car OR other,40,none,own,3,unemployed OR unskilled - non-resident,2,yes,yes,1
+951,negative,36,delayed,business,2145, ... < 100,4 <= ... < 7y,2,male : single,none,1,car OR other,24,none,own,2,skilled employed OR official ,1,yes,yes,2
+952, 0 <= ... <= 200,24,existing AND duly paid,car (used),4113,500 <= ... < 1000, ... < 1y,3,female : married OR separated OR divorced,none,4,car OR other,28,none,rent,1,skilled employed OR official ,1,no,yes,2
+953,none,36,existing AND duly paid,furniture,10974, ... < 100,unemployed,4,female : married OR separated OR divorced,none,2,car OR other,26,none,own,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+954,negative,12,existing AND duly paid,car (new),1893, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,guarantor,4,society savings agreement OR life insurance,29,none,own,1,skilled employed OR official ,1,yes,yes,1
+955,negative,24,critical account,radio OR tv,1231,1000 <= ...,7y <= ...,4,female : married OR separated OR divorced,none,4,society savings agreement OR life insurance,57,none,rent,2,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+956,200 < ...,30,critical account,radio OR tv,3656,unknown OR no savings account,7y <= ...,4,male : single,none,4,society savings agreement OR life insurance,49,stores,own,2,unskilled - resident,1,no,yes,1
+957, 0 <= ... <= 200,9,critical account,radio OR tv,1154, ... < 100,7y <= ...,2,male : single,none,4,real estate,37,none,own,3,unskilled - resident,1,no,yes,1
+958,negative,28,existing AND duly paid,car (new),4006, ... < 100,1 <= ... < 4y,3,male : single,none,2,car OR other,45,none,own,1,unskilled - resident,1,no,yes,2
+959, 0 <= ... <= 200,24,existing AND duly paid,furniture,3069,100 <= ... < 500,7y <= ...,4,male : single,none,4,none OR unknown,30,none,for free,1,skilled employed OR official ,1,no,yes,1
+960,none,6,critical account,radio OR tv,1740, ... < 100,7y <= ...,2,male : married,none,2,real estate,30,none,rent,2,skilled employed OR official ,1,no,yes,1
+961, 0 <= ... <= 200,21,delayed,car (new),2353, ... < 100,1 <= ... < 4y,1,male : separated OR divorced,none,4,society savings agreement OR life insurance,47,none,own,2,skilled employed OR official ,1,no,yes,1
+962,none,15,existing AND duly paid,car (new),3556,unknown OR no savings account,1 <= ... < 4y,3,male : single,none,2,none OR unknown,29,none,own,1,skilled employed OR official ,1,no,yes,1
+963,none,24,existing AND duly paid,radio OR tv,2397,500 <= ... < 1000,7y <= ...,3,male : single,none,2,car OR other,35,bank,own,2,skilled employed OR official ,1,yes,yes,2
+964, 0 <= ... <= 200,6,existing AND duly paid,repairs,454, ... < 100, ... < 1y,3,male : married,none,1,society savings agreement OR life insurance,22,none,own,1,unskilled - resident,1,no,yes,1
+965, 0 <= ... <= 200,30,existing AND duly paid,radio OR tv,1715,unknown OR no savings account,1 <= ... < 4y,4,female : married OR separated OR divorced,none,1,car OR other,26,none,own,1,skilled employed OR official ,1,no,yes,1
+966, 0 <= ... <= 200,27,critical account,radio OR tv,2520,500 <= ... < 1000,1 <= ... < 4y,4,male : single,none,2,society savings agreement OR life insurance,23,none,own,2,unskilled - resident,1,no,yes,2
+967,none,15,existing AND duly paid,radio OR tv,3568, ... < 100,7y <= ...,4,female : married OR separated OR divorced,none,2,car OR other,54,bank,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+968,none,42,existing AND duly paid,radio OR tv,7166,unknown OR no savings account,4 <= ... < 7y,2,male : married,none,4,society savings agreement OR life insurance,29,none,rent,1,skilled employed OR official ,1,yes,yes,1
+969,negative,11,critical account,car (new),3939, ... < 100,1 <= ... < 4y,1,male : single,none,2,real estate,40,none,own,2,unskilled - resident,2,no,yes,1
+970, 0 <= ... <= 200,15,existing AND duly paid,repairs,1514,100 <= ... < 500,1 <= ... < 4y,4,male : single,guarantor,2,real estate,22,none,own,1,skilled employed OR official ,1,no,yes,1
+971,none,24,existing AND duly paid,car (new),7393, ... < 100,1 <= ... < 4y,1,male : single,none,4,society savings agreement OR life insurance,43,none,own,1,unskilled - resident,2,no,yes,1
+972,negative,24,duly paid,car (new),1193, ... < 100,unemployed,1,female : married OR separated OR divorced,co-applicant,4,none OR unknown,29,none,rent,2,unemployed OR unskilled - non-resident,1,no,yes,2
+973,negative,60,existing AND duly paid,business,7297, ... < 100,7y <= ...,4,male : single,co-applicant,4,none OR unknown,36,none,rent,1,skilled employed OR official ,1,no,yes,2
+974,none,30,critical account,radio OR tv,2831, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,2,car OR other,33,none,own,1,skilled employed OR official ,1,yes,yes,1
+975,200 < ...,24,existing AND duly paid,radio OR tv,1258,500 <= ... < 1000,1 <= ... < 4y,3,female : married OR separated OR divorced,none,3,car OR other,57,none,own,1,unskilled - resident,1,no,yes,1
+976, 0 <= ... <= 200,6,existing AND duly paid,radio OR tv,753, ... < 100,1 <= ... < 4y,2,female : married OR separated OR divorced,guarantor,3,real estate,64,none,own,1,skilled employed OR official ,1,no,yes,1
+977, 0 <= ... <= 200,18,delayed,business,2427,unknown OR no savings account,7y <= ...,4,male : single,none,2,society savings agreement OR life insurance,42,none,own,2,skilled employed OR official ,1,no,yes,1
+978,none,24,delayed,car (new),2538, ... < 100,7y <= ...,4,male : single,none,4,car OR other,47,none,own,2,unskilled - resident,2,no,yes,2
+979, 0 <= ... <= 200,15,duly paid,car (new),1264,100 <= ... < 500,1 <= ... < 4y,2,male : married,none,2,society savings agreement OR life insurance,25,none,rent,1,skilled employed OR official ,1,no,yes,2
+980, 0 <= ... <= 200,30,critical account,furniture,8386, ... < 100,4 <= ... < 7y,2,male : single,none,2,society savings agreement OR life insurance,49,none,own,1,skilled employed OR official ,1,no,yes,2
+981,none,48,existing AND duly paid,business,4844, ... < 100,unemployed,3,male : single,none,2,car OR other,33,bank,rent,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,2
+982,200 < ...,21,existing AND duly paid,car (new),2923,100 <= ... < 500,1 <= ... < 4y,1,female : married OR separated OR divorced,none,1,car OR other,28,bank,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+983,negative,36,existing AND duly paid,car (used),8229, ... < 100,1 <= ... < 4y,2,male : single,none,2,society savings agreement OR life insurance,26,none,own,1,skilled employed OR official ,2,no,yes,2
+984,none,24,critical account,furniture,2028, ... < 100,4 <= ... < 7y,2,male : single,none,2,society savings agreement OR life insurance,30,none,own,2,unskilled - resident,1,no,yes,1
+985,negative,15,critical account,furniture,1433, ... < 100,1 <= ... < 4y,4,female : married OR separated OR divorced,none,3,society savings agreement OR life insurance,25,none,rent,2,skilled employed OR official ,1,no,yes,1
+986,200 < ...,42,none OR duly paid,business,6289, ... < 100, ... < 1y,2,male : separated OR divorced,none,1,society savings agreement OR life insurance,33,none,own,2,skilled employed OR official ,1,no,yes,1
+987,none,13,existing AND duly paid,radio OR tv,1409,100 <= ... < 500,unemployed,2,female : married OR separated OR divorced,none,4,real estate,64,none,own,1,skilled employed OR official ,1,no,yes,1
+988,negative,24,existing AND duly paid,car (used),6579, ... < 100,unemployed,4,male : single,none,2,none OR unknown,29,none,for free,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+989, 0 <= ... <= 200,24,critical account,radio OR tv,1743, ... < 100,7y <= ...,4,male : single,none,2,society savings agreement OR life insurance,48,none,own,2,unskilled - resident,1,no,yes,1
+990,none,12,critical account,education,3565,unknown OR no savings account, ... < 1y,2,male : single,none,1,society savings agreement OR life insurance,37,none,own,2,unskilled - resident,2,no,yes,1
+991,none,15,duly paid,radio OR tv,1569,100 <= ... < 500,7y <= ...,4,male : single,none,4,car OR other,34,bank,own,1,unskilled - resident,2,no,yes,1
+992,negative,18,existing AND duly paid,radio OR tv,1936,unknown OR no savings account,4 <= ... < 7y,2,male : married,none,4,car OR other,23,none,rent,2,unskilled - resident,1,no,yes,1
+993,negative,36,existing AND duly paid,furniture,3959, ... < 100,unemployed,4,male : single,none,3,society savings agreement OR life insurance,30,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+994,none,12,existing AND duly paid,car (new),2390,unknown OR no savings account,7y <= ...,4,male : single,none,3,car OR other,50,none,own,1,skilled employed OR official ,1,yes,yes,1
+995,none,12,existing AND duly paid,furniture,1736, ... < 100,4 <= ... < 7y,3,female : married OR separated OR divorced,none,4,real estate,31,none,own,1,unskilled - resident,1,no,yes,1
+996,negative,30,existing AND duly paid,car (used),3857, ... < 100,1 <= ... < 4y,4,male : separated OR divorced,none,4,society savings agreement OR life insurance,40,none,own,1,management OR self-employed OR highly qualified employee OR officer,1,yes,yes,1
+997,none,12,existing AND duly paid,radio OR tv,804, ... < 100,7y <= ...,4,male : single,none,4,car OR other,38,none,own,1,skilled employed OR official ,1,no,yes,1
+998,negative,45,existing AND duly paid,radio OR tv,1845, ... < 100,1 <= ... < 4y,4,male : single,none,4,none OR unknown,23,none,for free,1,skilled employed OR official ,1,yes,yes,2
+999, 0 <= ... <= 200,45,critical account,car (used),4576,100 <= ... < 500,unemployed,3,male : single,none,4,car OR other,27,none,own,1,skilled employed OR official ,1,no,yes,1
