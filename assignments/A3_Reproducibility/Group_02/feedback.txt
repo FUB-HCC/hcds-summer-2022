@@ -1,3 +1,4 @@
 The goal of the replicaiton task was quite straightforwardly fitting the topic of the lecture. We found it a reasinable task and were curious if this will be possiblebased on the minimal description in the paper. It did not work and frankly we have not had it in us to look deeply for ways to reproduce the exact results given that the authors did not put any effort in enabling that.
 The model building task was curious because it is never clear when one should be happy with the model that is achieved without having a benchmark. A discussion about this would be interesting.
-We have roughly spent 3 h each for the assigmnent
+We had different approaches to model building and how data is to be handeled, but unfortunately did not plan enough time before the deadline to discuss the as a group.
+We have roughly spent 4 h each for the assigmnent
