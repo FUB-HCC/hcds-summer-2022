@@ -1,0 +1,5 @@
+The assignment was well explained and structured. However, we could not reproduce the results mentioned in the paper due to the less information they provided. The information about 48 features was missing, along with the normalization technique used in preprocessing phase. 
+
+This assignment was a good demonstration of how difficult it is to reproduce some published paper results if no complete information is given. 
+
+ 
