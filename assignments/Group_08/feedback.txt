@@ -1,0 +1,5 @@
+The objectives of the assignment were good and very intuitive. At least now, we know some tools and algorithms to mitigate the biasness in different stages of ML workflow. 
+
+However, we struggled with the recommended tool, AIF360. Because it is not very stable, for example, we chose the Bank data for this assignment, and there were no built-in preprocessing loading functions like for the German, Adult, and Compas datasets. Even though we tried to make our own functions, but raised errors were very complicated. We wanted to implement all metrics and algorithms, but due to the lack of documentation of AIF360, we were not able to do that. 
+
+We want to suggest that next time it would be better to choose the tool that is stable (or have at least proper documentation).
