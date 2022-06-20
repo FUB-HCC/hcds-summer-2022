@@ -1,0 +1,4 @@
+The package was really very old, and unstable. It took a lot of time for us to correctly structure all the dependencies packages, later on to realise most of the structures are changed for Python 3.10
+The Wiki was really well structured, and guided us well, but instead of asking us to implement 4 different algorithm, a Task with 1 Algorithm would have been better. Our focus more went on to implement the assignment rather than understanding the fundamentals of fairness and bias because of implementing the 4 Algorithms and the outdated packages.
+
+More time could have been utilized in reading the papers, and the uses cases of fairness and bias instead of implementation.   
