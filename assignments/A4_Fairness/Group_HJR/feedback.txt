@@ -1,1 +1,3 @@
 
+1. OS and toolkit support
+One of the team member uses OS - M1 and dead kernel error kept coming up when trying to execute aif360. Referring to online resources, the OS is not supported to use the toolkit. It would have been better to choose more general tools for examples. 
