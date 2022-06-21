@@ -1,0 +1,6 @@
+The task this week was much more work intense which would have been good to know in advance for better planning.
+AIF360 is a powerful tool, but it takes a while to get used to it and it does not have the best documentation.
+We have touched uppon and dropped mutliple algorithms because they required a long time to apply knowingly. It was quite demotivating that many functions appear similar to those in Scikitlearn, but for example require special data types which are poorly documented instead of building on datatypes of Pandas and Numpy.
+Overall it was good to be forced to apply the tool to some extent, so it is not totally unfamiliar once a need arises.
+At the same time, the decision about the metrics and algorithms would be long and tedious.
+We have spent around 14 hours on the task as a group, but the distribution was highly uneven.
