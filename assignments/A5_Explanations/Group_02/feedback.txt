@@ -4,7 +4,16 @@ On the other hand, it is still quite frustrating to have to learn yet another fr
 not use again. The repo hasn't been updated significantly in years and could be considered abandoned.
 
 Sometimes the results from LIME are hard to interpret and one has to do mental gymnastics to iron out the double negations.
+The tutorial that we attempted to apply seems to have solved the problem of one hot encoded features with the value of 0
+appearing in the final LIME model (https://marcotcr.github.io/lime/tutorials/Tutorial%20-%20continuous%20and%20categorical%20features.html),
+but it was not working for us. The class sklearn.preprocessing.OneHotEncoder(categorical_features=categorical_features)
+has changed and when replicating the wanted result with other methods, the incompatablitiy of the number of features
+caused errors which was also what we expected.
+Therefore it stayed unclear to us, how it was intended to get rid of the absent one-hot-encoded categorical
+features in this tutorial by LIME authors.
+
 As the professor noted, one must pay attention at what the results actually are, and not just blindly trust the results because they look nice.
 On a side note even if we understand LIME's model, we don't really know how good these local approximations are and as such should take
-the results with an extra pinch of salt. 
-In general we consider the task to be appropriate for the course, and we worked a total of about ~10 hours on it.
+the results with an extra pinch of salt.
+
+In general, we consider the task to fit the topic of the course, and we worked a total of about ~12 hours on it.
