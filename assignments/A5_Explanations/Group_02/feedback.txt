@@ -1,0 +1,10 @@
+This exercise was a lot better than the last one.
+For one the framework is documented ok, and some of the examples they give are quite decent.
+On the other hand, it is still quite frustrating to have to learn yet another framework that we will likely
+not use again. The repo hasn't been updated significantly in years and could be considered abandoned.
+
+Sometimes the results from LIME are hard to interpret and one has to do mental gymnastics to iron out the double negations.
+As the professor noted, one must pay attention at what the results actually are, and not just blindly trust the results because they look nice.
+On a side note even if we understand LIME's model, we don't really know how good these local approximations are and as such should take
+the results with an extra pinch of salt. 
+In general we consider the task to be appropriate for the course, and we worked a total of about ~10 hours on it.
