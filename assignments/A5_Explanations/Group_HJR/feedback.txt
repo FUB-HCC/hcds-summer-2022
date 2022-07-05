@@ -1,1 +1,6 @@
 The part of peer-review was a little bit confused. Did we have to use LIME to review or is it just taking a look at the other's work? 
+
+----------------
+Comment by Lars:
+----------------
+The peer-review was designed that you should look at the solution of your assigned partner, check how they have solved it, and add them to the done.txt (for this assignment in the assignment 4 folder, as that was the assignment to be reviewed). LIME is not needed in this process.
